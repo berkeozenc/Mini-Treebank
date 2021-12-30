@@ -1,0 +1,25 @@
+(S
+	(VP
+		(VPS
+			(NPACC
+				(NPS
+					(VPS
+						(NPACC
+							(NS görünüm{görünüm<NOM>})
+							(ACCM ü{<Num:Sg><Poss:No><Case:Acc>})
+						)
+						(VS yenile{yenile<VS><Actv><VS>})
+					)
+					(DNG me{<Pol:Pos><Inf1><NOM>})
+				)
+				(ACCM yi{<Num:Sg><Poss:No><Case:Acc>})
+			)
+			(VS dene{dene<VS><Actv><VS>})
+		)
+		(TPMG yin{<Pol:Pos><Tns:Imp><Prsn:2p>})
+	)
+)
+
+görünümü	görünüm<NOM>-<Num:Sg><Poss:No><Case:Acc>	0,1
+yenilemeyi	yenile<VS><Actv><VS>-<Pol:Pos><Inf1><NOM>-<Num:Sg><Poss:No><Case:Acc>	0,1,2
+deneyin	dene<VS><Actv><VS>-<Pol:Pos><Tns:Imp><Prsn:2p>	0,1

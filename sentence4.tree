@@ -1,0 +1,22 @@
+(S
+	(VP
+		(VPSSUB
+			(NPSUB
+				(VPS
+					(NPACC
+						(NS diş{diş<NOM>})
+						(ACCM i{<Num:Sg><Poss:No><Case:Acc>})
+					)
+					(VS oy{oy<VS><Actv><VS>})
+				)
+				(Select an{<Pol:Pos><AgtA><NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(VS gel{gel<VS><Actv><VS>})
+		)
+		(TPMG di{<Pol:Pos><Tns:Past><Prsn:3s>})
+	)
+)
+
+dişi	diş<NOM>-<Num:Sg><Poss:No><Case:Acc>	0,1
+oyan	oy<VS><Actv><VS>-<Pol:Pos><AgtA><NOM><Num:Sg><Poss:No><Case:Nom>	0,1
+geldi	gel<VS><Actv><VS>-<Pol:Pos><Tns:Past><Prsn:3s>	0,1

@@ -1,0 +1,17 @@
+(S
+	(ADV yine{yine<ADV>})
+	(VP
+		(VPSSUB
+			(NPSUB
+				(NS can{can<NOM>})
+				(PLPMGB ım{<Num:Sg><Poss:1s><Case:Nom>})
+			)
+			(VS sıkıl{sıkıl<VS><Actv><VS>})
+		)
+		(TPMG dı{<Pol:Pos><Tns:Past><Prsn:3s>})
+	)
+)
+
+yine	yine<ADV>	0
+canım	can<NOM>-<Num:Sg><Poss:1s><Case:Nom>	0,1
+sıkıldı	sıkıl<VS><Actv><VS>-<Pol:Pos><Tns:Past><Prsn:3s>	0,1

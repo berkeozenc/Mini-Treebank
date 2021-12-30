@@ -1,0 +1,21 @@
+(S
+	(VP
+		(VPS
+			(NPACC
+				(NPS
+					(NP
+						(NS büyük{büyük<NOM><Num:Sg><Poss:No><Case:Nom>})
+					)
+					(NS kalem{kalem<NOM>})
+				)
+				(ACCM i{<Num:Sg><Poss:No><Case:Acc>})
+			)
+			(VS gör{gör<VS><Actv><VS>})
+		)
+		(TPMG dü{<Pol:Pos><Tns:Past>} m{<Prsn:1s>})
+	)
+)
+
+büyük	büyük<NOM><Num:Sg><Poss:No><Case:Nom>	0
+kalemi	kalem<NOM>-<Num:Sg><Poss:No><Case:Acc>	0,1
+gördüm	gör<VS><Actv><VS>-<Pol:Pos><Tns:Past>-<Prsn:1s>	0,2

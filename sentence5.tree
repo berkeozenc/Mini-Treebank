@@ -1,0 +1,31 @@
+(S
+	(NPC
+		(NPS
+			(NPC
+				(NPS
+					(VPS
+						(NPC
+							(NS bura{bura<NOM>})
+							(CMGB da{<Num:Sg><Poss:No><Case:Loc>})
+						)
+						(VS ol{ol<VS><Actv><VS>})
+					)
+					(DNG mak{<Pol:Pos><Inf2><NOM>})
+				)
+				(CMGB tan{<Num:Sg><Poss:No><Case:Abl>})
+			)
+			(NPS
+				(NP
+					(NS çok{çok<NOM><Num:Sg><Poss:No><Case:Nom>})
+				)
+				(NS mutlu{mutlu<NOM>})
+			)
+		)
+		(TPMG yum{<Num:Sg><Poss:No><Case:Nom><NPRED><Prsn:1s>})
+	)
+)
+
+burada	bura<NOM>-<Num:Sg><Poss:No><Case:Loc>	0,1
+olmaktan	ol<VS><Actv><VS>-<Pol:Pos><Inf2><NOM>-<Num:Sg><Poss:No><Case:Abl>	0,1,2
+çok	çok<NOM><Num:Sg><Poss:No><Case:Nom>	0
+mutluyum	mutlu<NOM>-<Num:Sg><Poss:No><Case:Nom><NPRED><Prsn:1s>	0,1

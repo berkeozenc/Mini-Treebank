@@ -1,0 +1,22 @@
+(S
+	(VPS
+		(NP
+			(NPS
+				(NS arka{arka<NOM>})
+				(PLPMG sın{<Num:Sg><Poss:3s>})
+			)
+			(CMGB dan{<Case:Abl>})
+		)
+		(VPS
+			(NP
+				(NS el{el<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(VS salla{salla<VS><Actv><VS>})
+		)
+	)
+	(TPMG dı{<Pol:Pos><Tns:Past>} m{<Prsn:1s>})
+)
+
+arkasından	arka<NOM>-<Num:Sg><Poss:3s>-<Case:Abl>	0,1,2
+el	el<NOM><Num:Sg><Poss:No><Case:Nom>	0
+salladım	salla<VS><Actv><VS>-<Pol:Pos><Tns:Past>-<Prsn:1s>	0,2

@@ -1,0 +1,31 @@
+(S
+	(VP
+		(VPS
+			(NPACC
+				(NPS
+					(VPS
+						(NPACC
+							(NPS
+								(NP
+									(NS bu{bu<NOM><Num:Sg><Poss:No><Case:Nom>})
+								)
+								(NS şans{şans<NOM>})
+							)
+							(ACCM ı{<Num:Sg><Poss:No><Case:Acc>})
+						)
+						(VS kullan{kullan<VS><Actv><VS>})
+					)
+					(DNG ma{<Pol:Pos><Inf1><NOM>})
+				)
+				(ACCM yı{<Num:Sg><Poss:No><Case:Acc>})
+			)
+			(VS sev{sev<VS><Actv><VS>})
+		)
+		(TPMG iyor{<Pol:Pos><Tns:Pres>} um{<Prsn:1s>})
+	)
+)
+
+bu	bu<NOM><Num:Sg><Poss:No><Case:Nom>	0
+şansı	şans<NOM>-<Num:Sg><Poss:No><Case:Acc>	0,1
+kullanmayı	kullan<VS><Actv><VS>-<Pol:Pos><Inf1><NOM>-<Num:Sg><Poss:No><Case:Acc>	0,1,2
+seviyorum	sev<VS><Actv><VS>-<Pol:Pos><Tns:Pres>-<Prsn:1s>	0,2
