@@ -1,0 +1,52 @@
+(S
+	(VP
+		(VPS
+			(NPACC
+				(NPS
+					(NPS
+						(VPS
+							(ADVP
+								(NPC
+									(NPS
+										(NPS
+											(NP
+												(NS böyle{böyle<NOM><Num:Sg><Poss:No><Case:Nom>})
+											)
+											(NPS
+												(VPS
+													(VS yarala{yarala<VS>})
+													(VMG n{<Pasv><VS>})
+												)
+												(DNG an{<Pol:Pos><AgtA><NOM>})
+											)
+										)
+										(PLPMG lar{<Num:Pl>})
+									)
+									(CMGB ın{<Poss:No><Case:Gen>})
+								)
+							)
+							(ADVP
+								(ADV asla{asla<ADV>})
+							)
+							(VPS
+								(VS yaşa{yaşa<VS><Actv><VS>})
+								(VMG ya{<Abil>} ma{<Pol:Neg>})
+							)
+						)
+						(DNG yacağ{<InfF><NOM>})
+					)
+					(PLPMG ın{<Num:Sg><Poss:3s>})
+				)
+				(ACCM ı{<Case:Acc>})
+			)
+			(VS düşün{düşün<VS><Actv><VS>})
+		)
+		(TPMG ür{<Pol:Pos><Tns:Aor>} dü{<Cpl:Past>} m{<Prsn:1s>})
+	)
+)
+
+böyle	böyle<NOM><Num:Sg><Poss:No><Case:Nom>	0
+yaralananların	yarala<VS>-<Pasv><VS>-<Pol:Pos><AgtA><NOM>-<Num:Pl>-<Poss:No><Case:Gen>	0,1,2,3,4
+asla	asla<ADV>	0
+yaşayamayacağını	yaşa<VS><Actv><VS>-<Abil>-<Pol:Neg>-<InfF><NOM>-<Num:Sg><Poss:3s>-<Case:Acc>	0,2,3,4,5
+düşünürdüm	düşün<VS><Actv><VS>-<Pol:Pos><Tns:Aor>-<Cpl:Past>-<Prsn:1s>	0,3

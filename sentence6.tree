@@ -1,21 +1,21 @@
 (S
 	(VP
-		(VPSSUB
-			(NPSUB
+		(VPS
+			(NP
 				(NPS
 					(NP
-						(NS dişi{dişi<NOM><Num:Sg><Poss:No><Case:Nom>})
+						(NS büyük{büyük<NOM><Num:Sg><Poss:No><Case:Nom>})
 					)
-					(NS oya{oya<NOM>})
+					(NS kalem{kalem<NOM>})
 				)
-				(PLPMGB n{<Num:Sg><Poss:2s><Case:Nom>})
+				(ACCM i{<Num:Sg><Poss:No><Case:Acc>})
 			)
-			(VS gel{gel<VS><Actv><VS>})
+			(VS gör{gör<VS><Actv><VS>})
 		)
-		(TPMG di{<Pol:Pos><Tns:Past><Prsn:3s>})
+		(TPMG dü{<Pol:Pos><Tns:Past>} m{<Prsn:1s>})
 	)
 )
 
-dişi	dişi<NOM><Num:Sg><Poss:No><Case:Nom>	0
-oyan	oya<NOM>-<Num:Sg><Poss:2s><Case:Nom>	0,1
-geldi	gel<VS><Actv><VS>-<Pol:Pos><Tns:Past><Prsn:3s>	0,1
+büyük	büyük<NOM><Num:Sg><Poss:No><Case:Nom>	0
+kalemi	kalem<NOM>-<Num:Sg><Poss:No><Case:Acc>	0,1
+gördüm	gör<VS><Actv><VS>-<Pol:Pos><Tns:Past>-<Prsn:1s>	0,2

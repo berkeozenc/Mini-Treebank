@@ -1,0 +1,28 @@
+(S
+	(VP
+		(VPSSUB
+			(NPSUB
+				(NS büyükbaba{büyükbaba<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(ADVP
+				(NPC
+					(NS bura{bura<NOM>})
+					(CMGB da{<Num:Sg><Poss:No><Case:Loc>})
+				)
+			)
+			(ADVP
+				(NPC
+					(NS ev{ev<NOM>})
+					(CMGB de{<Num:Sg><Poss:No><Case:Loc>})
+				)
+			)
+			(VS uyu{uyu<VS><Actv><VS>})
+		)
+		(TPMG yor{<Pol:Pos><Tns:Pres><Prsn:3s>})
+	)
+)
+
+büyükbaba	büyükbaba<NOM><Num:Sg><Poss:No><Case:Nom>	0
+burada	bura<NOM>-<Num:Sg><Poss:No><Case:Loc>	0,1
+evde	ev<NOM>-<Num:Sg><Poss:No><Case:Loc>	0,1
+uyuyor	uyu<VS><Actv><VS>-<Pol:Pos><Tns:Pres><Prsn:3s>	0,1

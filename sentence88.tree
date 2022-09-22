@@ -1,0 +1,53 @@
+(S
+	(VP
+		(VPS
+			(VPS
+				(NP
+					(NPS
+						(NPC
+							(NPS
+								(NPS
+									(NP
+										(VPS
+											(VPS
+												(ADVP
+													(NPC
+														(NPS
+															(NP
+																(NS geçerli{geçerli<NOM><Num:Sg><Poss:No><Case:Nom>})
+															)
+															(NS durum{durum<NOM>})
+														)
+														(CMGB da{<Num:Sg><Poss:No><Case:Loc>})
+													)
+												)
+												(VS kullan{kullan<VS>})
+											)
+											(VMG ıl{<Psv><VS>} abil{<Abil><Pol:Pos>})
+										)
+										(DNGB en{<AgtA><NOM><Num:Sg><Poss:No><Case:Nom>})
+									)
+									(NS ağ{ağ<NOM>})
+								)
+								(PLPMG lar{<Num:Pl>})
+							)
+							(CMG ın{<Poss:No><Case:Gen>})
+						)
+						(NS liste{liste<NOM>})
+					)
+					(PLPMGB si{<Num:Sg><Poss:3s><Case:Nom>})
+				)
+				(VS görüntüle{görüntüle<VS>})
+			)
+			(VMG n{<Psv><VS>})
+		)
+		(TPMG ir{<Pol:Pos><Tns:Aor><Prsn:3s>})
+	)
+)
+
+geçerli	geçerli<NOM><Num:Sg><Poss:No><Case:Nom>	0
+durumda	durum<NOM>-<Num:Sg><Poss:No><Case:Loc>	0,1
+kullanılabilen	kullan<VS>-<Psv><VS>-<Abil><Pol:Pos>-<AgtA><NOM><Num:Sg><Poss:No><Case:Nom>	0,2,3
+ağların	ağ<NOM>-<Num:Pl>-<Poss:No><Case:Gen>	0,1,2
+listesi	liste<NOM>-<Num:Sg><Poss:3s><Case:Nom>	0,1
+görüntülenir	görüntüle<VS>-<Psv><VS>-<Pol:Pos><Tns:Aor><Prsn:3s>	0,1,2

@@ -1,0 +1,32 @@
+(S
+	(VP
+		(VPS
+			(NPACC
+				(NPS
+					(NS kendi{kendi<NOM>})
+					(PLPMG m{<Num:Sg><Poss:1s>})
+				)
+				(ACCM i{<Case:Acc>})
+			)
+			(VS tut{tut<VS><Actv><VS>})
+		)
+		(TPMG uyor{<Pol:Pos><Tns:Pres><Prsn:3s>})
+	)
+	(VP
+		(VPS
+			(ADVP
+				(NPC
+					(NS dikkat{dikka{rEİ}t<NOM>})
+					(CMG le{<Num:Sg><Poss:No><Case:Ins>})
+				)
+			)
+			(VS dinl{dinle<VS><Actv><VS>})
+		)
+		(TPMG iyor{<Pol:Pos><Tns:Pres>} du{<Cpl:Past>} m{<Prsn:1s>})
+	)
+)
+
+kendimi	kendi<NOM>-<Num:Sg><Poss:1s>-<Case:Acc>	0,1,2
+tutuyor	tut<VS><Actv><VS>-<Pol:Pos><Tns:Pres><Prsn:3s>	0,1
+dikkatle	dikka{rEİ}t<NOM>-<Num:Sg><Poss:No><Case:Ins>	0,1
+dinliyordum	dinle<VS><Actv><VS>-<Pol:Pos><Tns:Pres>-<Cpl:Past>-<Prsn:1s>	0,3

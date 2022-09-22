@@ -1,0 +1,26 @@
+(S
+	(VP
+		(VPSSUB
+			(NPSUB
+				(NS biz{biz<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(VPS
+				(ADVP
+					(NPC
+						(NPS
+							(NS soru{soru<NOM>})
+							(PLPMG muz{<Num:Sg><Poss:1p>})
+						)
+						(CMG a{<Case:Dat>})
+					)
+				)
+				(VS dön{dön<VS><Actv><VS>})
+			)
+		)
+		(TPMG e{<Pol:Pos><Tns:Opt>} lim{<Prsn:1p>})
+	)
+)
+
+biz	biz<NOM><Num:Sg><Poss:No><Case:Nom>	0
+sorumuza	soru<NOM>-<Num:Sg><Poss:1p>-<Case:Dat>	0,1,2
+dönelim	dön<VS><Actv><VS>-<Pol:Pos><Tns:Opt>-<Prsn:1p>	0,2

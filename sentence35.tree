@@ -1,0 +1,13 @@
+(S
+	(VP
+		(VS buyur{buyur<VS><Actv><VS>})
+		(TPMG un{<Pol:Pos><Tns:Imp><Prsn:2p>})
+	)
+	(VP
+		(VS oku{oku<VS><Actv><VS>})
+		(TPMG yun{<Pol:Pos><Tns:Imp><Prsn:2p>})
+	)
+)
+
+buyurun	buyur<VS><Actv><VS>-<Pol:Pos><Tns:Imp><Prsn:2p>	0,1
+okuyun	oku<VS><Actv><VS>-<Pol:Pos><Tns:Imp><Prsn:2p>	0,1

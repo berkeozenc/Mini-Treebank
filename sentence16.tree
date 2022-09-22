@@ -1,0 +1,21 @@
+(S
+	(VP
+		(VPSSUB
+			(NPSUB
+				(NS içki{içki<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(VPS
+				(NPC
+					(NS çene{çene<NOM>})
+					(CMG sin{<Num:Sg><Poss:3s>} e{<Case:Dat>})
+				)
+				(VS vur{vur<VS><Actv><VS>})
+			)
+		)
+		(TPMG muş{<Pol:Pos><Tns:Narr>} tu{<Cpl:Past><Prsn:3s>})
+	)
+)
+
+içki	içki<NOM><Num:Sg><Poss:No><Case:Nom>	0
+çenesine	çene<NOM>-<Num:Sg><Poss:3s>-<Case:Dat>	0,2
+vurmuştu	vur<VS><Actv><VS>-<Pol:Pos><Tns:Narr>-<Cpl:Past><Prsn:3s>	0,2

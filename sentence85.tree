@@ -1,0 +1,46 @@
+(S
+	(VP
+		(VP
+			(VPS
+				(NPACC
+					(NPS
+						(VPS
+							(VPS
+								(NS güncel{güncel<NOM>})
+								(DVG leş{<Num:Sg><Poss:No><Case:Nom><Bec><VS>})
+							)
+							(VMG tir{<Caus><VS>})
+						)
+						(DNG me{<Pol:Pos><Inf1><NOM>})
+					)
+					(ACCM yi{<Num:Sg><Poss:No><Case:Acc>})
+				)
+				(VS gizle{gizle<VS><Actv><VS>})
+			)
+			(TPMG miş{<Pol:Pos><Tns:Narr>} ti{<Cpl:Past>} m{<Prsn:1s>})
+		)
+		(CONJ ancak{ancak<CONJ>})
+		(VP
+			(VPS
+				(NP
+					(VPS
+						(ADVP
+							(ADV şimdi{şimdi<ADV>})
+						)
+						(VS yükle{yükle<VS><Actv><VS>})
+					)
+					(DNGB mek{<Pol:Pos><Inf2><NOM><Num:Sg><Poss:No><Case:Nom>})
+				)
+				(VS ist{iste<VS><Actv><VS>})
+			)
+			(TPMG iyor{<Pol:Pos><Tns:Pres>} um{<Prsn:1s>})
+		)
+	)
+)
+
+güncelleştirmeyi	güncel<NOM>-<Num:Sg><Poss:No><Case:Nom><Bec><VS>-<Caus><VS>-<Pol:Pos><Inf1><NOM>-<Num:Sg><Poss:No><Case:Acc>	0,1,2,3,4
+gizlemiştim	gizle<VS><Actv><VS>-<Pol:Pos><Tns:Narr>-<Cpl:Past>-<Prsn:1s>	0,3
+ancak	ancak<CONJ>	0
+şimdi	şimdi<ADV>	0
+yüklemek	yükle<VS><Actv><VS>-<Pol:Pos><Inf2><NOM><Num:Sg><Poss:No><Case:Nom>	0,1
+istiyorum	iste<VS><Actv><VS>-<Pol:Pos><Tns:Pres>-<Prsn:1s>	0,2

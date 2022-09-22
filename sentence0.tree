@@ -1,0 +1,18 @@
+(S
+	(VP
+		(VPSSUB
+			(NPSUB
+				(NS ben{ben<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(VPS
+				(ADV çabucak{çabucak<ADV>})
+				(VS gel{gel<VS><Actv><VS>})
+			)
+		)
+		(TPMG eceğ{<Pol:Pos><Tns:Fut>} im{<Prsn:1s>})
+	)
+)
+
+ben	ben<NOM><Num:Sg><Poss:No><Case:Nom>	0
+çabucak	çabucak<ADV>	0
+geleceğim	gel<VS><Actv><VS>-<Pol:Pos><Tns:Fut>-<Prsn:1s>	0,2

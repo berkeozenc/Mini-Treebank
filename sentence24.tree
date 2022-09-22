@@ -1,0 +1,38 @@
+(S
+	(VP
+		(VPSSUB
+			(NPSUB
+				(NS fabrika{fabrika<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(NPACC
+				(NPS
+					(NPS
+						(NP
+							(NPC
+								(NS onlar{onlar<NOM>})
+								(CMGB ın{<Num:Sg><Poss:No><Case:Gen>})
+							)
+							(NP
+								(NS bütün{bütün<NOM><Num:Sg><Poss:No><Case:Nom>})
+							)
+						)
+						(NS gün{gün<NOM>})
+					)
+					(CMG ler{<Num:Pl>} in{<Poss:3s>})
+				)
+				(ACCM i{<Case:Acc>})
+			)
+			(VPS
+				(VS öl{öl<VS>})
+				(VMG dür{<Caus><VS>})
+			)
+		)
+		(TPMG üyor{<Pol:Pos><Tns:Pres>} du{<Cpl:Past><Prsn:3s>})
+	)
+)
+
+fabrika	fabrika<NOM><Num:Sg><Poss:No><Case:Nom>	0
+onların	onlar<NOM>-<Num:Sg><Poss:No><Case:Gen>	0,1
+bütün	bütün<NOM><Num:Sg><Poss:No><Case:Nom>	0
+günlerini	gün<NOM>-<Num:Pl>-<Poss:3s>-<Case:Acc>	0,2,3
+öldürüyordu	öl<VS>-<Caus><VS>-<Pol:Pos><Tns:Pres>-<Cpl:Past><Prsn:3s>	0,1,3

@@ -1,0 +1,36 @@
+(S
+	(NP
+		(NPS
+			(NPS
+				(NP
+					(NS internet{internet<NOM><Num:Sg><Poss:No><Case:Nom>})
+				)
+				(NS ayar{ayar<NOM>})
+			)
+			(PLPMG lar{<Num:Pl>})
+		)
+		(NCMB ı{<NC><Case:Nom>})
+	)
+	(CONJ ve{ve<CONJ>})
+	(NP
+		(NPS
+			(VPS
+				(VPS
+					(ADVP
+						(NS sık{sık<NOM><Num:Sg><Poss:No><Case:Nom>})
+					)
+					(VS kullan{kullan<VS>})
+				)
+				(VMG ıl{<Pasv><VS>})
+			)
+			(DNG an{<Pol:Pos><AgtA><NOM>})
+		)
+		(PLPMGB lar{<Num:Pl><Poss:No><Case:Nom>})
+	)
+)
+
+internet	internet<NOM><Num:Sg><Poss:No><Case:Nom>	0
+ayarları	ayar<NOM>-<Num:Pl>-<NC><Case:Nom>	0,1,2
+ve	ve<CONJ>	0
+sık	sık<NOM><Num:Sg><Poss:No><Case:Nom>	0
+kullanılanlar	kullan<VS>-<Pasv><VS>-<Pol:Pos><AgtA><NOM>-<Num:Pl><Poss:No><Case:Nom>	0,1,2,3

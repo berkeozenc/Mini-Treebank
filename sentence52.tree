@@ -1,0 +1,23 @@
+(S
+	(NPSUB
+		(NS arkadaş{arkadaş<NOM>})
+		(PLPMGB lar{<Num:Pl>} ım{<Poss:1s><Case:Nom>})
+	)
+	(NPRED
+		(NPS
+			(NP
+				(NS makina{makina<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(NP
+				(NS gibi{gibi<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(NS şey{şey<NOM>})
+		)
+		(TPMG ler{<Num:Sg><Poss:No><Case:Nom><NPRED><Prsn:3p>})
+	)
+)
+
+arkadaşlarım	arkadaş<NOM>-<Num:Pl>-<Poss:1s><Case:Nom>	0,2
+makina	makina<NOM><Num:Sg><Poss:No><Case:Nom>	0
+gibi	gibi<NOM><Num:Sg><Poss:No><Case:Nom>	0
+şeyler	şey<NOM>-<Num:Sg><Poss:No><Case:Nom><NPRED><Prsn:3p>	0,1

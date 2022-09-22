@@ -1,29 +1,17 @@
 (S
+	(ADV yine{yine<ADV>})
 	(VP
-		(VPS
-			(NP
-				(NPS
-					(VPS
-						(NP
-							(NPS
-								(NS bu{bu<NOM><Num:Sg><Poss:No><Case:Nom>})
-								(NS şans{şans<NOM>})
-							)
-							(ACCM ı{<Num:Sg><Poss:No><Case:Acc>})
-						)
-						(VS kullan{kullan<VS><Actv><VS>})
-					)
-					(DNG ma{<Pol:Pos><Inf1><NOM>})
-				)
-				(ACCM yı{<Num:Sg><Poss:No><Case:Acc>})
+		(VPSSUB
+			(NPSUB
+				(NS can{can<NOM>})
+				(PLPMGB ım{<Num:Sg><Poss:1s><Case:Nom>})
 			)
-			(VS sev{sev<VS><Actv><VS>})
+			(VS sıkıl{sıkıl<VS><Actv><VS>})
 		)
-		(TPMG iyor{<Pol:Pos><Tns:Pres>} um{<Prsn:1s>})
+		(TPMG dı{<Pol:Pos><Tns:Past><Prsn:3s>})
 	)
 )
 
-bu	bu<NOM><Num:Sg><Poss:No><Case:Nom>	0
-şansı	şans<NOM>-<Num:Sg><Poss:No><Case:Acc>	0,1
-kullanmayı	kullan<VS><Actv><VS>-<Pol:Pos><Inf1><NOM>-<Num:Sg><Poss:No><Case:Acc>	0,1,2
-seviyorum	sev<VS><Actv><VS>-<Pol:Pos><Tns:Pres>-<Prsn:1s>	0,2
+yine	yine<ADV>	0
+canım	can<NOM>-<Num:Sg><Poss:1s><Case:Nom>	0,1
+sıkıldı	sıkıl<VS><Actv><VS>-<Pol:Pos><Tns:Past><Prsn:3s>	0,1

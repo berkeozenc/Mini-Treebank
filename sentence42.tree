@@ -1,0 +1,39 @@
+(S
+	(VP
+		(VPS
+			(ADVP
+				(ADV birden{birden<ADV>})
+			)
+			(NPACC
+				(NPS
+					(NP
+						(VPS
+							(NPACC
+								(NS patlama{patlama<NOM>})
+								(ACCM yı{<Num:Sg><Poss:No><Case:Acc>})
+							)
+							(VS andır{andır<VS><Actv><VS>})
+						)
+						(DNGB an{<Pol:Pos><AgtA><NOM><Num:Sg><Poss:No><Case:Nom>})
+					)
+					(NP
+						(NS korkunç{korkunç<NOM><Num:Sg><Poss:No><Case:Nom>})
+					)
+					(NP
+						(NS ses{ses<NOM>})
+					)
+				)
+				(ACCM i{<Num:Sg><Poss:No><Case:Acc>})
+			)
+			(VS duy{duy<VS><Actv><VS>})
+		)
+		(TPMG du{<Pol:Pos><Tns:Past>} m{<Prsn:1s>})
+	)
+)
+
+birden	birden<ADV>	0
+patlamayı	patlama<NOM>-<Num:Sg><Poss:No><Case:Acc>	0,1
+andıran	andır<VS><Actv><VS>-<Pol:Pos><AgtA><NOM><Num:Sg><Poss:No><Case:Nom>	0,1
+korkunç	korkunç<NOM><Num:Sg><Poss:No><Case:Nom>	0
+sesi	ses<NOM>-<Num:Sg><Poss:No><Case:Acc>	0,1
+duydum	duy<VS><Actv><VS>-<Pol:Pos><Tns:Past>-<Prsn:1s>	0,2

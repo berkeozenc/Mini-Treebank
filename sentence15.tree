@@ -1,31 +1,5 @@
-(S
-	(VP
-		(VPS
-			(NPACC
-				(NPS
-					(NPS
-						(NP
-							(NPS
-								(NPS
-									(NS kitap{kita{rP}<NOM>})
-									(DNG lık{<State><NOM>})
-								)
-								(CMG ta{<Num:Sg><Poss:No><Case:Loc>})
-							)
-							(DNG ki{<Rel><NOM><Num:Sg><Poss:No><Case:Nom>})
-						)
-						(NS kitap{kita{rP}<NOM>})
-					)
-					(PLPMG lar{<Num:Pl>})
-				)
-				(ACCM ı{<Poss:No><Case:Acc>})
-			)
-			(VS al{al<VS><Actv><VS>})
-		)
-		(TPMG dı{<Pol:Pos><Tns:Past>} m{<Prsn:1s>})
-	)
-)
-
-kitaplıktaki	kita{rP}<NOM>-<State><NOM>-<Num:Sg><Poss:No><Case:Loc>-<Rel><NOM><Num:Sg><Poss:No><Case:Nom>	0,1,2,3
-kitapları	kita{rP}<NOM>-<Num:Pl>-<Poss:No><Case:Acc>	0,1,2
-aldım	al<VS><Actv><VS>-<Pol:Pos><Tns:Past>-<Prsn:1s>	0,2
+teleferik
+yolculuğu
+beş
+dakika
+sürüyor

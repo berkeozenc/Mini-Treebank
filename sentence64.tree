@@ -1,0 +1,16 @@
+(NP
+	(NPS
+		(NP
+			(NS kalın{kalın<NOM><Num:Sg><Poss:No><Case:Nom>})
+		)
+		(NP
+			(NS deri{deri<NOM><Num:Sg><Poss:No><Case:Nom>})
+		)
+		(NS bileklik{bilekli{rK}<NOM>})
+	)
+	(PLPMGB ler{<Num:Pl><Poss:No><Case:Nom>})
+)
+
+kalın	kalın<NOM><Num:Sg><Poss:No><Case:Nom>	0
+deri	deri<NOM><Num:Sg><Poss:No><Case:Nom>	0
+bileklikler	bilekli{rK}<NOM>-<Num:Pl><Poss:No><Case:Nom>	0,1

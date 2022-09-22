@@ -1,0 +1,35 @@
+(S
+	(NPSUB
+		(NP
+			(NS böyle{böyle<NOM><Num:Sg><Poss:No><Case:Nom>})
+		)
+		(NP
+			(NS bir{bir<NOM><Num:Sg><Poss:No><Case:Nom>})
+		)
+		(NPSUB
+			(NP
+				(VS incele{incele<VS><Actv><VS>})
+				(DNGB me{<Pol:Pos><Inf1><NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(CONJ ve{ve<CONJ>})
+			(NP
+				(VPS
+					(VS soru{soru<VS>})
+					(VMG ş{<Rcpr><VS>} tur{<Caus><VS>})
+				)
+				(DNGB ma{<Pol:Pos><Inf1><NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+		)
+	)
+	(NPRED
+		(NS yok{yok<NOM>})
+		(TPMG muş{<Num:Sg><Poss:No><Case:Nom><NPRED><Cpl:Narr><Prsn:3s>})
+	)
+)
+
+böyle	böyle<NOM><Num:Sg><Poss:No><Case:Nom>	0
+bir	bir<NOM><Num:Sg><Poss:No><Case:Nom>	0
+inceleme	incele<VS><Actv><VS>-<Pol:Pos><Inf1><NOM><Num:Sg><Poss:No><Case:Nom>	0,1
+ve	ve<CONJ>	0
+soruşturma	soru<VS>-<Rcpr><VS>-<Caus><VS>-<Pol:Pos><Inf1><NOM><Num:Sg><Poss:No><Case:Nom>	0,2,3
+yokmuş	yok<NOM>-<Num:Sg><Poss:No><Case:Nom><NPRED><Cpl:Narr><Prsn:3s>	0,1

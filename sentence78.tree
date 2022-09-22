@@ -1,0 +1,16 @@
+(S
+	(NP
+		(NP
+			(NS bir{bir<NOM><Num:Sg><Poss:No><Case:Nom>})
+		)
+		(NS hata{hata<NOM><Num:Sg><Poss:No><Case:Nom>})
+	)
+	(NP
+		(NS değil{değil<NOM>})
+		(Select dir{<Num:Sg><Poss:No><Case:Nom><NPRED><Prsn:3s><Cpl:Aor>})
+	)
+)
+
+bir	bir<NOM><Num:Sg><Poss:No><Case:Nom>	0
+hata	hata<NOM><Num:Sg><Poss:No><Case:Nom>	0
+değildir	değil<NOM>-<Num:Sg><Poss:No><Case:Nom><NPRED><Prsn:3s><Cpl:Aor>	0,1

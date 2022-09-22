@@ -1,0 +1,22 @@
+(VP
+	(VPS
+		(NPACC
+			(VPS
+				(NPS
+					(NP
+						(NS belediye{belediye<NOM><Num:Sg><Poss:No><Case:Nom>})
+					)
+					(NS onay{onay<NOM>})
+				)
+				(PLPMG ın{<Num:Sg><Poss:3s>})
+			)
+			(ACCM ı{<Case:Acc>})
+		)
+		(VS bekl{bekle<VS><Actv><VS>})
+	)
+	(TPMG iyor{<Pol:Pos><Tns:Pres>} uz{<Prsn:1p>})
+)
+
+belediye	belediye<NOM><Num:Sg><Poss:No><Case:Nom>	0
+onayını	onay<NOM>-<Num:Sg><Poss:3s>-<Case:Acc>	0,1,2
+bekliyoruz	bekle<VS><Actv><VS>-<Pol:Pos><Tns:Pres>-<Prsn:1p>	0,2

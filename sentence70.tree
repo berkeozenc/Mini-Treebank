@@ -1,0 +1,17 @@
+(S
+	(VP
+		(VPS
+			(ADVP
+				(NPC
+					(NS ayağ{aya{rK}<NOM>})
+					(CMG a{<Num:Sg><Poss:No><Case:Dat>})
+				)
+			)
+			(VS kalk{kalk<VS><Actv><VS>})
+		)
+		(TPMG tı{<Pol:Pos><Tns:Past><Prsn:3s>})
+	)
+)
+
+ayağa	aya{rK}<NOM>-<Num:Sg><Poss:No><Case:Dat>	0,1
+kalktı	kalk<VS><Actv><VS>-<Pol:Pos><Tns:Past><Prsn:3s>	0,1

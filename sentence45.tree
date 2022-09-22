@@ -1,0 +1,31 @@
+(S
+	(VP
+		(VPS
+			(NPACC
+				(NPS
+					(NPS
+						(NPC
+							(NS yatırım{yatırım<NOM>})
+							(CMG ın{<Num:Sg><Poss:No><Case:Gen>})
+						)
+						(NPS
+							(NP
+								(NS bugünkü{bugünkü<NOM><Num:Sg><Poss:No><Case:Nom>})
+							)
+							(NS değer{değer<NOM>})
+						)
+					)
+					(NCM in{<Num:Sg><NC>})
+				)
+				(ACCM i{<Case:Acc>})
+			)
+			(VS ver{ver<VS><Actv><VS>})
+		)
+		(TPMG ir{<Pol:Pos><Tns:Aor><Prsn:3s>})
+	)
+)
+
+yatırımın	yatırım<NOM>-<Num:Sg><Poss:No><Case:Gen>	0,1
+bugünkü	bugünkü<NOM><Num:Sg><Poss:No><Case:Nom>	0
+değerini	değer<NOM>-<Num:Sg><NC>-<Case:Acc>	0,1,2
+verir	ver<VS><Actv><VS>-<Pol:Pos><Tns:Aor><Prsn:3s>	0,1

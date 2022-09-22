@@ -1,0 +1,23 @@
+(S
+	(VP
+		(VPS
+			(ADVP
+				(NPC
+					(NPS
+						(NP
+							(NS her{her<NOM><Num:Sg><Poss:No><Case:Nom>})
+						)
+						(NS yer{yer<NOM>})
+					)
+					(CMGB de{<Num:Sg><Poss:No><Case:Loc>})
+				)
+			)
+			(VS di{d{E}<VS><Actv><VS>})
+		)
+		(TPMG yor{<Pol:Pos><Tns:Pres>} um{<Prsn:1s>})
+	)
+)
+
+her	her<NOM><Num:Sg><Poss:No><Case:Nom>	0
+yerde	yer<NOM>-<Num:Sg><Poss:No><Case:Loc>	0,1
+diyorum	d{E}<VS><Actv><VS>-<Pol:Pos><Tns:Pres>-<Prsn:1s>	0,2

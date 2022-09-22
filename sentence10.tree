@@ -5,20 +5,27 @@
 				(NPS
 					(NPS
 						(NP
-							(NS büyük{büyük<NOM><Num:Sg><Poss:No><Case:Nom>})
+							(NPS
+								(NPS
+									(NS kitap{kita{rP}<NOM>})
+									(DNG lık{<State><NOM>})
+								)
+								(CMG ta{<Num:Sg><Poss:No><Case:Loc>})
+							)
+							(DNG ki{<Rel><NOM><Num:Sg><Poss:No><Case:Nom>})
 						)
-						(NS kale{kale<NOM>})
+						(NS kitap{kita{rP}<NOM>})
 					)
-					(PLPMG m{<Num:Sg><Poss:1s>})
+					(CMG lar{<Num:Pl>})
 				)
-				(ACCM i{<Case:Acc>})
+				(ACCM ı{<Poss:No><Case:Acc>})
 			)
-			(VS gör{gör<VS><Actv><VS>})
+			(VS al{al<VS><Actv><VS>})
 		)
-		(TPMG dü{<Pol:Pos><Tns:Past>} m{<Prsn:1s>})
+		(TPMG dı{<Pol:Pos><Tns:Past>} m{<Prsn:1s>})
 	)
 )
 
-büyük	büyük<NOM><Num:Sg><Poss:No><Case:Nom>	0
-kalemi	kale<NOM>-<Num:Sg><Poss:1s>-<Case:Acc>	0,1,2
-gördüm	gör<VS><Actv><VS>-<Pol:Pos><Tns:Past>-<Prsn:1s>	0,2
+kitaplıktaki	kita{rP}<NOM>-<State><NOM>-<Num:Sg><Poss:No><Case:Loc>-<Rel><NOM><Num:Sg><Poss:No><Case:Nom>	0,1,2,3
+kitapları	kita{rP}<NOM>-<Num:Pl>-<Poss:No><Case:Acc>	0,1,2
+aldım	al<VS><Actv><VS>-<Pol:Pos><Tns:Past>-<Prsn:1s>	0,2

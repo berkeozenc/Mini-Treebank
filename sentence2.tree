@@ -2,17 +2,20 @@
 	(VP
 		(VPSSUB
 			(NPSUB
-				(NS ben{ben<NOM><Num:Sg><Poss:No><Case:Nom>})
+				(NPS
+					(NP
+						(NS dişi{dişi<NOM><Num:Sg><Poss:No><Case:Nom>})
+					)
+					(NS oya{oya<NOM>})
+				)
+				(DNGB n{<Num:Sg><Poss:2s><Case:Nom>})
 			)
-			(VPS
-				(ADV çabucak{çabucak<ADV>})
-				(VS gel{gel<VS><Actv><VS>})
-			)
+			(VS gel{gel<VS><Actv><VS>})
 		)
-		(TPMG eceğ{<Pol:Pos><Tns:Fut>} im{<Prsn:1s>})
+		(TPMG di{<Pol:Pos><Tns:Past><Prsn:3s>})
 	)
 )
 
-ben	ben<NOM><Num:Sg><Poss:No><Case:Nom>	0
-çabucak	çabucak<ADV>	0
-geleceğim	gel<VS><Actv><VS>-<Pol:Pos><Tns:Fut>-<Prsn:1s>	0,2
+dişi	dişi<NOM><Num:Sg><Poss:No><Case:Nom>	0
+oyan	oya<NOM>-<Num:Sg><Poss:2s><Case:Nom>	0,1
+geldi	gel<VS><Actv><VS>-<Pol:Pos><Tns:Past><Prsn:3s>	0,1

@@ -1,0 +1,36 @@
+(S
+	(VP
+		(VPS
+			(ADVP
+				(NPC
+					(NS sınav{sınav<NOM>})
+					(CMGB a{<Num:Sg><Poss:No><Case:Dat>})
+				)
+			)
+			(NP
+				(NP
+					(NS en{en<NOM><Num:Sg><Poss:No><Case:Nom>})
+				)
+				(NP
+					(NS fazla{fazla<NOM><Num:Sg><Poss:No><Case:Nom>})
+				)
+				(NP
+					(NS beş{beş<NOM><Num:Sg><Poss:No><Case:Nom>})
+				)
+				(NS kez{kez<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(VPS
+				(VS gir{gir<VS>})
+				(VMG il{<Pasv><VS>} ebil{<Abil><Pol:Pos>})
+			)
+		)
+		(TPMG iyor{<Tns:Pres><Prsn:3s>})
+	)
+)
+
+sınava	sınav<NOM>-<Num:Sg><Poss:No><Case:Dat>	0,1
+en	en<NOM><Num:Sg><Poss:No><Case:Nom>	0
+fazla	fazla<NOM><Num:Sg><Poss:No><Case:Nom>	0
+beş	beş<NOM><Num:Sg><Poss:No><Case:Nom>	0
+kez	kez<NOM><Num:Sg><Poss:No><Case:Nom>	0
+girilebiliyor	gir<VS>-<Pasv><VS>-<Abil><Pol:Pos>-<Tns:Pres><Prsn:3s>	0,2,3

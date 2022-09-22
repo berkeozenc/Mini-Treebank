@@ -1,0 +1,18 @@
+(S
+	(VP
+		(VPS
+			(NPS
+				(NP
+					(NS çok{çok<NOM><Num:Sg><Poss:No><Case:Nom>})
+				)
+				(NS teşekkür{teşekkür<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(VS ed{e{rT}<VS><Actv><VS>})
+		)
+		(TPMG iyor{<Pol:Pos><Tns:Pres>} um{<Prsn:1s>})
+	)
+)
+
+çok	çok<NOM><Num:Sg><Poss:No><Case:Nom>	0
+teşekkür	teşekkür<NOM><Num:Sg><Poss:No><Case:Nom>	0
+ediyorum	e{rT}<VS><Actv><VS>-<Pol:Pos><Tns:Pres>-<Prsn:1s>	0,2

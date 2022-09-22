@@ -1,0 +1,22 @@
+(S
+	(NPSUB
+		(NS bu{bu<NOM><Num:Sg><Poss:No><Case:Nom>})
+	)
+	(NPRED
+		(NPS
+			(NP
+				(NS çok{çok<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(NP
+				(NS iyi{iyi<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(NS adam{adam<NOM>})
+		)
+		(TPMG dır{<Num:Sg><Poss:No><Case:Nom><NPRED><Prsn:3s>})
+	)
+)
+
+bu	bu<NOM><Num:Sg><Poss:No><Case:Nom>	0
+çok	çok<NOM><Num:Sg><Poss:No><Case:Nom>	0
+iyi	iyi<NOM><Num:Sg><Poss:No><Case:Nom>	0
+adamdır	adam<NOM>-<Num:Sg><Poss:No><Case:Nom><NPRED><Prsn:3s>	0,1

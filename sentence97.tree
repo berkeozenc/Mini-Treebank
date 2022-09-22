@@ -1,0 +1,22 @@
+(S
+	(NP
+		(NS gri{gri<NOM><Num:Sg><Poss:No><Case:Nom>})
+	)
+	(NP
+		(NPS
+			(NP
+				(NS nötr{nötr<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(NP
+				(NS bir{bir<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(NS renk{ren{rK}<NOM>})
+		)
+		(Select tir{<Num:Sg><Poss:No><Case:Nom><NPRED><Prsn:3s><Cpl:Aor>})
+	)
+)
+
+gri	gri<NOM><Num:Sg><Poss:No><Case:Nom>	0
+nötr	nötr<NOM><Num:Sg><Poss:No><Case:Nom>	0
+bir	bir<NOM><Num:Sg><Poss:No><Case:Nom>	0
+renktir	ren{rK}<NOM>-<Num:Sg><Poss:No><Case:Nom><NPRED><Prsn:3s><Cpl:Aor>	0,1

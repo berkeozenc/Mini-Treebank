@@ -1,0 +1,38 @@
+(S
+	(VP
+		(VPS
+			(POSTPP
+				(NPC
+					(NPS
+						(NP
+							(NP
+								(NS sabah{sabah<NOM><Num:Sg><Poss:No><Case:Nom>})
+							)
+							(NP
+								(NS saat{saa{rEİ}t<NOM><Num:Sg><Poss:No><Case:Nom>})
+							)
+						)
+						(NS dörd{dör{rT}<NOM>})
+					)
+					(CMGB e{<Num:Sg><Poss:No><Case:Dat>})
+				)
+				(POSTP doğru{doğru<POSTP>})
+			)
+			(ADVP
+				(NPC
+					(NS ev{ev<NOM>})
+					(CMGB e{<Num:Sg><Poss:No><Case:Dat>})
+				)
+			)
+			(VS dön{dön<VS><Actv><VS>})
+		)
+		(TPMG dü{<Pol:Pos><Tns:Past><Prsn:3s>})
+	)
+)
+
+sabah	sabah<NOM><Num:Sg><Poss:No><Case:Nom>	0
+saat	saa{rEİ}t<NOM><Num:Sg><Poss:No><Case:Nom>	0
+dörde	dör{rT}<NOM>-<Num:Sg><Poss:No><Case:Dat>	0,1
+doğru	doğru<POSTP>	0
+eve	ev<NOM>-<Num:Sg><Poss:No><Case:Dat>	0,1
+döndü	dön<VS><Actv><VS>-<Pol:Pos><Tns:Past><Prsn:3s>	0,1

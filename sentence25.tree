@@ -1,0 +1,42 @@
+(S
+	(VP
+		(VPS
+			(NP
+				(NPACC
+					(NPS
+						(NPS
+							(NP
+								(NS ekran{ekran<NOM><Num:Sg><Poss:No><Case:Nom>})
+							)
+							(NS çözünürlüğ{çözünürlü{rK}<NOM>})
+						)
+						(NCM ün{<Num:Sg><NC>})
+					)
+					(ACCM ü{<Case:Acc>})
+				)
+				(CONJ ve{ve<CONJ>})
+				(NPACC
+					(NPS
+						(NPS
+							(NP
+								(NS renk{ren{rK}<NOM><Num:Sg><Poss:No><Case:Nom>})
+							)
+							(NS kalite{kalite<NOM>})
+						)
+						(NCM sin{<Num:Sg><NC>})
+					)
+					(ACCM i{<Case:Acc>})
+				)
+			)
+			(VS seç{seç<VS><Actv><VS>})
+		)
+		(TPMG in{<Pol:Pos><Tns:Imp><Prsn:2p>})
+	)
+)
+
+ekran	ekran<NOM><Num:Sg><Poss:No><Case:Nom>	0
+çözünürlüğünü	çözünürlü{rK}<NOM>-<Num:Sg><NC>-<Case:Acc>	0,1,2
+ve	ve<CONJ>	0
+renk	ren{rK}<NOM><Num:Sg><Poss:No><Case:Nom>	0
+kalitesini	kalite<NOM>-<Num:Sg><NC>-<Case:Acc>	0,1,2
+seçin	seç<VS><Actv><VS>-<Pol:Pos><Tns:Imp><Prsn:2p>	0,1

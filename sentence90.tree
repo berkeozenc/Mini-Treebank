@@ -1,0 +1,33 @@
+(S
+	(NPSUB
+		(NP
+			(NPS
+				(VS kal{kal<VS><Actv><VS>})
+				(DNG dığ{<Pol:Pos><InfA><NOM>})
+			)
+			(PLPMGB ım{<Num:Sg><Poss:1s><Case:Nom>})
+		)
+		(NS bungalov{bungalov<NOM><Num:Sg><Poss:No><Case:Nom>})
+	)
+	(NPRED
+		(NPS
+			(NPS
+				(NPS
+					(NPC
+						(NS tepe{tepe<NOM>})
+						(CMG nin{<Num:Sg><Poss:No><Case:Gen>})
+					)
+					(NS etek{ete{rK}<NOM>})
+				)
+				(PLPMG ler{<Num:Pl>} in{<Poss:3s>})
+			)
+			(CMG de{<Case:Loc><NPRED>})
+		)
+		(TPMG ydi{<Cpl:Past><Prsn:3s>})
+	)
+)
+
+kaldığım	kal<VS><Actv><VS>-<Pol:Pos><InfA><NOM>-<Num:Sg><Poss:1s><Case:Nom>	0,1,2
+bungalov	bungalov<NOM><Num:Sg><Poss:No><Case:Nom>	0
+tepenin	tepe<NOM>-<Num:Sg><Poss:No><Case:Gen>	0,1
+eteklerindeydi	ete{rK}<NOM>-<Num:Pl>-<Poss:3s>-<Case:Loc><NPRED>-<Cpl:Past><Prsn:3s>	0,2,3,4

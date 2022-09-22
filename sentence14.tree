@@ -1,6 +1,54 @@
-bu
-tetikleyiciye
-ekleyebileceğiniz
-varolan
-kuralları
-listeler
+(S
+	(VP
+		(VPS
+			(NPACC
+				(NPS
+					(NPS
+						(NP
+							(NPS
+								(VPS
+									(ADVP
+										(NPC
+											(NPS
+												(NP
+													(NS bu{bu<NOM><Num:Sg><Poss:No><Case:Nom>})
+												)
+												(NPS
+													(VS tetikle{tetikle<VS><Actv><VS>})
+													(DNG yici{<Pol:Pos><AgtR><NOM>})
+												)
+											)
+											(CMGB ye{<Num:Sg><Poss:No><Case:Dat>})
+										)
+									)
+									(VPS
+										(VS ekle{ekle<VS><Actv><VS>})
+										(VMG yebil{<Abil><Pol:Pos>})
+									)
+								)
+								(DNG eceğ{<InfF><NOM>})
+							)
+							(PLPMGB iniz{<Num:Sg><Poss:2p><Case:Nom>})
+						)
+						(NP
+							(VS varol{varol<VS><Actv><VS>})
+							(DNGB an{<Pol:Pos><AgtA><NOM><Num:Sg><Poss:No><Case:Nom>})
+						)
+						(NS kural{kural<NOM>})
+					)
+					(PLPMG lar{<Num:Pl>})
+				)
+				(ACCM ı{<Poss:No><Case:Acc>})
+			)
+			(VS listele{listele<VS><Actv><VS>})
+		)
+		(TPMG r{<Pol:Pos><Tns:Aor><Prsn:3s>})
+	)
+)
+
+bu	bu<NOM><Num:Sg><Poss:No><Case:Nom>	0
+tetikleyiciye	tetikle<VS><Actv><VS>-<Pol:Pos><AgtR><NOM>-<Num:Sg><Poss:No><Case:Dat>	0,1,2
+ekleyebileceğiniz	ekle<VS><Actv><VS>-<Abil><Pol:Pos>-<InfF><NOM>-<Num:Sg><Poss:2p><Case:Nom>	0,1,2,3
+varolan	varol<VS><Actv><VS>-<Pol:Pos><AgtA><NOM><Num:Sg><Poss:No><Case:Nom>	0,1
+kuralları	kural<NOM>-<Num:Pl>-<Poss:No><Case:Acc>	0,1,2
+listeler	listele<VS><Actv><VS>-<Pol:Pos><Tns:Aor><Prsn:3s>	0,1

@@ -1,0 +1,45 @@
+(S
+	(VP
+		(VPS
+			(NPACC
+				(NPS
+					(NPS
+						(NPC
+							(NPS
+								(NPS
+									(NP
+										(NS ileti{ileti<NOM><Num:Sg><Poss:No><Case:Nom>})
+									)
+									(NS gövde{gövde<NOM>})
+								)
+								(NCM sin{<Num:Sg><NC>})
+							)
+							(CMGB in{<Case:Gen>})
+						)
+						(NS boyut{boyut<NOM>})
+					)
+					(NCM un{<Num:Sg><NC>})
+				)
+				(ACCM u{<Case:Acc>})
+			)
+			(ADVP
+				(VPS
+					(NP
+						(NS bayt{bayt<NOM><Num:Sg><Poss:No><Case:Nom>})
+					)
+					(VS ol{ol<VS><Actv><VS>})
+				)
+				(DAGB arak{<Pol:Pos><While><ADV>})
+			)
+			(VS görüntüle{görüntüle<VS><Actv><VS>})
+		)
+		(TPMG r{<Pol:Pos><Tns:Aor><Prsn:3s>})
+	)
+)
+
+ileti	ileti<NOM><Num:Sg><Poss:No><Case:Nom>	0
+gövdesinin	gövde<NOM>-<Num:Sg><NC>-<Case:Gen>	0,1,2
+boyutunu	boyut<NOM>-<Num:Sg><NC>-<Case:Acc>	0,1,2
+bayt	bayt<NOM><Num:Sg><Poss:No><Case:Nom>	0
+olarak	ol<VS><Actv><VS>-<Pol:Pos><While><ADV>	0,1
+görüntüler	görüntüle<VS><Actv><VS>-<Pol:Pos><Tns:Aor><Prsn:3s>	0,1

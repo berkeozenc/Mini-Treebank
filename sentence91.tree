@@ -1,0 +1,40 @@
+(S
+	(VP
+		(VPSSUB
+			(NPSUB
+				(NPSUB
+					(NP
+						(NS bazı{bazı<NOM><Num:Sg><Poss:No><Case:Nom>})
+					)
+					(NS çocuk{çocuk<NOM>})
+				)
+				(PLPMGB lar{<Num:Pl><Poss:No><Case:Nom>})
+			)
+			(VPS
+				(NP
+					(NP
+						(NS çok{çok<NOM><Num:Sg><Poss:No><Case:Nom>})
+					)
+					(NS çabuk{çabuk<NOM><Num:Sg><Poss:No><Case:Nom>})
+				)
+				(VPS
+					(ADVP
+						(NPC
+							(NS doyum{doyum<NOM>})
+							(CMGB a{<Num:Sg><Poss:No><Case:Dat>})
+						)
+					)
+					(VS ulaş{ulaş<VS><Actv><VS>})
+				)
+			)
+		)
+		(TPMG ır{<Pol:Pos><Tns:Aor><Prsn:3s>})
+	)
+)
+
+bazı	bazı<NOM><Num:Sg><Poss:No><Case:Nom>	0
+çocuklar	çocuk<NOM>-<Num:Pl><Poss:No><Case:Nom>	0,1
+çok	çok<NOM><Num:Sg><Poss:No><Case:Nom>	0
+çabuk	çabuk<NOM><Num:Sg><Poss:No><Case:Nom>	0
+doyuma	doyum<NOM>-<Num:Sg><Poss:No><Case:Dat>	0,1
+ulaşır	ulaş<VS><Actv><VS>-<Pol:Pos><Tns:Aor><Prsn:3s>	0,1

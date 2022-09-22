@@ -1,0 +1,9 @@
+(NS hata{hata<NOM><Num:Sg><Poss:No><Case:Nom>})
+(CONJ da{da<CONJ>})
+(VS yap{yap<VS><Actv><VS>})
+(VMG abil{<Abil><Pol:Pos>})
+(TPMG ir{<Tns:Aor><Prsn:3s>})
+
+hata	hata<NOM><Num:Sg><Poss:No><Case:Nom>	0
+da	da<CONJ>	0
+yapabilir	yap<VS><Actv><VS>-<Abil><Pol:Pos>-<Tns:Aor><Prsn:3s>	0,1,2

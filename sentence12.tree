@@ -1,25 +1,4 @@
-(S
-	(VP
-		(VPS
-			(ADVP
-				(VPS
-					(NPACC
-						(NPS
-							(NS üst{üst<NOM>})
-							(PLPMG üm{<Num:Sg><Poss:1s>})
-						)
-						(ACCM ü{<Case:Acc>})
-					)
-					(VS ört{ört<VS><Actv><VS>})
-				)
-				(DAG üp{<Pol:Pos><After2><ADV>})
-			)
-			(VS uyu{uyu<VS><Actv><VS>})
-		)
-		(TPMG du{<Pol:Pos><Tns:Past>} m{<Prsn:1s>})
-	)
-)
-
-üstümü	üst<NOM>-<Num:Sg><Poss:1s>-<Case:Acc>	0,1,2
-örtüp	ört<VS><Actv><VS>-<Pol:Pos><After2><ADV>	0,1
-uyudum	uyu<VS><Actv><VS>-<Pol:Pos><Tns:Past>-<Prsn:1s>	0,2
+sağlıklı
+beslenmeye
+gayret
+ettim

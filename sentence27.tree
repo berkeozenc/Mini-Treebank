@@ -1,0 +1,16 @@
+(Select klasör{klasör<NOM><Num:Sg><Poss:No><Case:Nom>})
+(Select yeniden{yeniden<ADV>})
+(Select yönlendir{yönlendir<VS>})
+(Select il{<Pasv><VS>})
+(Select en{<Pol:Pos><AgtA><NOM><Num:Sg><Poss:No><Case:Nom>})
+(Select konum{konum<NOM>})
+(Select un{<Num:Sg><Poss:2s>})
+(Select da{<Case:Loc>})
+(Select kal{kal<VS><Actv><VS>})
+(Select ır{<Pol:Pos><Tns:Aor><Prsn:3s>})
+
+klasör	klasör<NOM><Num:Sg><Poss:No><Case:Nom>	0
+yeniden	yeniden<ADV>	0
+yönlendirilen	yönlendir<VS>-<Pasv><VS>-<Pol:Pos><AgtA><NOM><Num:Sg><Poss:No><Case:Nom>	0,1,2
+konumunda	konum<NOM>-<Num:Sg><Poss:2s>-<Case:Loc>	0,1,2
+kalır	kal<VS><Actv><VS>-<Pol:Pos><Tns:Aor><Prsn:3s>	0,1

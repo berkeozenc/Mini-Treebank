@@ -1,0 +1,32 @@
+(S
+	(NPSUB
+		(NP
+			(VPS
+				(ADVP
+					(NPC
+						(NPS
+							(NS el{el<NOM>})
+							(PLPMG iniz{<Num:Sg><Poss:2p>})
+						)
+						(CMGB de{<Case:Loc>})
+					)
+				)
+				(VS ol{ol<VS><Actv><VS>})
+			)
+			(DNGB an{<Pol:Pos><AgtA><NOM><Num:Sg><Poss:No><Case:Nom>})
+		)
+		(NP
+			(NS bir{bir<NOM><Num:Sg><Poss:No><Case:Nom>})
+		)
+		(NS şey{şey<NOM><Num:Sg><Poss:No><Case:Nom>})
+	)
+	(NPRED
+		(NS değil{değil<NOM><Num:Sg><Poss:No><Case:Nom>})
+	)
+)
+
+elinizde	el<NOM>-<Num:Sg><Poss:2p>-<Case:Loc>	0,1,2
+olan	ol<VS><Actv><VS>-<Pol:Pos><AgtA><NOM><Num:Sg><Poss:No><Case:Nom>	0,1
+bir	bir<NOM><Num:Sg><Poss:No><Case:Nom>	0
+şey	şey<NOM><Num:Sg><Poss:No><Case:Nom>	0
+değil	değil<NOM><Num:Sg><Poss:No><Case:Nom>	0

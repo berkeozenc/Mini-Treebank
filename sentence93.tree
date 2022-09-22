@@ -1,0 +1,30 @@
+(S
+	(VP
+		(VPS
+			(NPACC
+				(NPS
+					(NS el{el<NOM>})
+					(PLPMG in{<Num:Sg><Poss:3s>})
+				)
+				(ACCM i{<Case:Acc>})
+			)
+			(VPS
+				(ADVP
+					(NPC
+						(NPS
+							(NS omz{om{synUn}z<NOM>})
+							(PLPMG um{<Num:Sg><Poss:1s>})
+						)
+						(CMG a{<Case:Dat>})
+					)
+				)
+				(VS koy{koy<VS><Actv><VS>})
+			)
+		)
+		(TPMG du{<Pol:Pos><Tns:Past><Prsn:3s>})
+	)
+)
+
+elini	el<NOM>-<Num:Sg><Poss:3s>-<Case:Acc>	0,1,2
+omzuma	om{synUn}z<NOM>-<Num:Sg><Poss:1s>-<Case:Dat>	0,1,2
+koydu	koy<VS><Actv><VS>-<Pol:Pos><Tns:Past><Prsn:3s>	0,1

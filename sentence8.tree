@@ -1,14 +1,14 @@
 (S
-	(NP
-		(NPS
-			(NP
-				(NS yığınla{yığınla<NOM><Num:Sg><Poss:No><Case:Nom>})
-			)
-			(NS uğraş{uğraş<NOM>})
-		)
-		(PLPMGB ı{<Num:Sg><Poss:3s><Case:Nom>})
-	)
 	(VP
+		(NP
+			(NPS
+				(NP
+					(NS yığınla{yığınla<NOM><Num:Sg><Poss:No><Case:Nom>})
+				)
+				(NS uğraş{uğraş<NOM>})
+			)
+			(PLPMGB ı{<Num:Sg><Poss:3s><Case:Nom>})
+		)
 		(VS var{var<VS><Actv><VS><Pol:Pos><Tns:Imp><Prsn:2s>})
 	)
 )

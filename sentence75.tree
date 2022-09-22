@@ -1,0 +1,37 @@
+(S
+	(VP
+		(VPS
+			(VP
+				(VPSSUB
+					(NPSUB
+						(NS ben{ben<NOM><Num:Sg><Poss:No><Case:Nom>})
+					)
+					(VPS
+						(NPACC
+							(NPS
+								(NP
+									(NS bu{bu<NOM><Num:Sg><Poss:No><Case:Nom>})
+								)
+								(NS kamyon{kamyon<NOM>})
+							)
+							(ACCM u{<Num:Sg><Poss:No><Case:Acc>})
+						)
+						(VPS
+							(VS sür{sür<VS><Actv><VS>})
+							(VMG ebil{<Abil><Pol:Pos>})
+						)
+					)
+				)
+				(TPMG ir{<Tns:Aor>} im{<Prsn:1s>})
+			)
+			(VS de{d{E}<VS><Actv><VS>})
+		)
+		(TPMG di{<Pol:Pos><Tns:Past><Prsn:3s>})
+	)
+)
+
+ben	ben<NOM><Num:Sg><Poss:No><Case:Nom>	0
+bu	bu<NOM><Num:Sg><Poss:No><Case:Nom>	0
+kamyonu	kamyon<NOM>-<Num:Sg><Poss:No><Case:Acc>	0,1
+sürebilirim	sür<VS><Actv><VS>-<Abil><Pol:Pos>-<Tns:Aor>-<Prsn:1s>	0,1,3
+dedi	d{E}<VS><Actv><VS>-<Pol:Pos><Tns:Past><Prsn:3s>	0,1

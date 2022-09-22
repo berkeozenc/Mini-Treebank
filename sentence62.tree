@@ -1,0 +1,25 @@
+(S
+	(VP3S
+		(VPS
+			(ADVP
+				(ADV kah{kah<ADV>})
+			)
+			(VS sevin{sevin<VS><Actv><VS>})
+		)
+		(TPMG3S ir{<Pol:Pos><Tns:Aor><Prsn:3s>})
+	)
+	(VP
+		(VPS
+			(ADVP
+				(ADV kah{kah<ADV>})
+			)
+			(VS kahrol{kahrol<VS><Actv><VS>})
+		)
+		(TPMG ur{<Pol:Pos><Tns:Aor>} sunuz{<Prsn:2p>})
+	)
+)
+
+kah	kah<ADV>	0
+sevinir	sevin<VS><Actv><VS>-<Pol:Pos><Tns:Aor><Prsn:3s>	0,1
+kah	kah<ADV>	0
+kahrolursunuz	kahrol<VS><Actv><VS>-<Pol:Pos><Tns:Aor>-<Prsn:2p>	0,2

@@ -1,0 +1,34 @@
+(S
+	(VP
+		(VPS
+			(ADVP
+				(NPC
+					(NPS
+						(NPS
+							(NP
+								(NS bu{bu<NOM><Num:Sg><Poss:No><Case:Nom>})
+							)
+							(NS saat{saa{rEİ}t<NOM>})
+						)
+						(PLPMG ler{<Num:Pl>})
+					)
+					(CMGB de{<Poss:No><Case:Loc>})
+				)
+			)
+			(ADVP
+				(ADV genellikle{genellikle<ADV>})
+			)
+			(NP
+				(NS böyle{böyle<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(VS yap{yap{AORA}<VS><Actv><VS>})
+		)
+		(TPMG ar{<Pol:Pos><Tns:Aor>} dı{<Cpl:Past>} m{<Prsn:1s>})
+	)
+)
+
+bu	bu<NOM><Num:Sg><Poss:No><Case:Nom>	0
+saatlerde	saa{rEİ}t<NOM>-<Num:Pl>-<Poss:No><Case:Loc>	0,1,2
+genellikle	genellikle<ADV>	0
+böyle	böyle<NOM><Num:Sg><Poss:No><Case:Nom>	0
+yapardım	yap{AORA}<VS><Actv><VS>-<Pol:Pos><Tns:Aor>-<Cpl:Past>-<Prsn:1s>	0,3
