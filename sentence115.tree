@@ -1,0 +1,14 @@
+(S
+	(VP
+		(VPSSUB
+			(NPSUB
+				(NS çalışma{çalışma<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(VS ilerl{ilerle<VS><Actv><VS>})
+		)
+		(TPMG iyor{<Pol:Pos><Tns:Pres><Prsn:3s>})
+	)
+)
+
+çalışma	çalışma<NOM><Num:Sg><Poss:No><Case:Nom>	0
+ilerliyor	ilerle<VS><Actv><VS>-<Pol:Pos><Tns:Pres><Prsn:3s>	0,1

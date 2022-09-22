@@ -1,0 +1,45 @@
+(S
+	(NPSUB
+		(NPS
+			(NP
+				(NS iyi{iyi<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(NS soru{soru<NOM>})
+		)
+		(PLPMGB lar{<Num:Pl><Poss:No><Case:Nom>})
+	)
+	(NPRED
+		(NPS
+			(NP
+				(NPS
+					(VPS
+						(VS düşün{düşün<VS><Actv><VS>})
+						(VMG me{<Pol:Neg>})
+					)
+					(DNG diğ{<InfA><NOM>})
+				)
+				(PLPMGB iniz{<Num:Sg><Poss:2p><Case:Nom>})
+			)
+			(CONJ ve{ve<CONJ>})
+			(NP
+				(NPS
+					(VPS
+						(VS planla{planla<VS><Actv><VS>})
+						(VMG ma{<Pol:Neg>})
+					)
+					(DNG dığ{<InfA><NOM>})
+				)
+				(PLPMGB ınız{<Num:Sg><Poss:2p><Case:Nom>})
+			)
+			(NS soru{soru<NOM>})
+		)
+		(TPMG lar{<Num:Sg><Poss:No><Case:Nom><NPRED><Prsn:3p>} dır{<Cpl:Aor>})
+	)
+)
+
+iyi	iyi<NOM><Num:Sg><Poss:No><Case:Nom>	0
+sorular	soru<NOM>-<Num:Pl><Poss:No><Case:Nom>	0,1
+düşünmediğiniz	düşün<VS><Actv><VS>-<Pol:Neg>-<InfA><NOM>-<Num:Sg><Poss:2p><Case:Nom>	0,1,2,3
+ve	ve<CONJ>	0
+planlamadığınız	planla<VS><Actv><VS>-<Pol:Neg>-<InfA><NOM>-<Num:Sg><Poss:2p><Case:Nom>	0,1,2,3
+sorulardır	soru<NOM>-<Num:Sg><Poss:No><Case:Nom><NPRED><Prsn:3p>-<Cpl:Aor>	0,2

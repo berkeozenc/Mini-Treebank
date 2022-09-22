@@ -1,0 +1,43 @@
+(S
+	(VP
+		(VPS
+			(ADVP
+				(ADV üzerine{üzerine<ADV>})
+			)
+			(NPACC
+				(NPS
+					(NPS
+						(NPS
+							(NP
+								(NPS
+									(VS rendele{rendele<VS><Actv><VS>})
+									(DNG diğ{<Pol:Pos><InfA><NOM>})
+								)
+								(PLPMGB iniz{<Num:Sg><Poss:2p><Case:Nom>})
+							)
+							(NP
+								(NS beyaz{beyaz<NOM><Num:Sg><Poss:No><Case:Nom>})
+							)
+							(NP
+								(NS peynir{peynir<NOM><Num:Sg><Poss:No><Case:Nom>})
+							)
+							(NS parça{parça<NOM>})
+						)
+						(PLPMG lar{<Num:Pl>})
+					)
+					(NCMB ın{<NC>})
+				)
+				(ACCM ı{<Case:Acc>})
+			)
+			(VS serpiştir{serpiştir<VS><Actv><VS>})
+		)
+		(TPMG in{<Pol:Pos><Tns:Imp><Prsn:2p>})
+	)
+)
+
+üzerine	üzerine<ADV>	0
+rendelediğiniz	rendele<VS><Actv><VS>-<Pol:Pos><InfA><NOM>-<Num:Sg><Poss:2p><Case:Nom>	0,1,2
+beyaz	beyaz<NOM><Num:Sg><Poss:No><Case:Nom>	0
+peynir	peynir<NOM><Num:Sg><Poss:No><Case:Nom>	0
+parçalarını	parça<NOM>-<Num:Pl>-<NC>-<Case:Acc>	0,1,2,3
+serpiştirin	serpiştir<VS><Actv><VS>-<Pol:Pos><Tns:Imp><Prsn:2p>	0,1

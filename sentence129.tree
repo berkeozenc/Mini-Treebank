@@ -1,0 +1,21 @@
+(S
+	(VP
+		(VPS
+			(NP
+				(NP
+					(NS basit{basit<NOM><Num:Sg><Poss:No><Case:Nom>})
+				)
+				(NS birim{birim<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(VPS
+				(VS oluş{oluş<VS>})
+				(VMG tur{<Caus><VS>})
+			)
+		)
+		(TPMG ur{<Pol:Pos><Tns:Aor><Prsn:3s>})
+	)
+)
+
+basit	basit<NOM><Num:Sg><Poss:No><Case:Nom>	0
+birim	birim<NOM><Num:Sg><Poss:No><Case:Nom>	0
+oluşturur	oluş<VS>-<Caus><VS>-<Pol:Pos><Tns:Aor><Prsn:3s>	0,1,2

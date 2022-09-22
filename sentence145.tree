@@ -1,0 +1,28 @@
+(S
+	(VP
+		(VPSSUB
+			(NPSUB
+				(NS ben{ben<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(ADVP
+				(ADV günde{günde<ADV>})
+				(ADVP
+					(NP
+						(NS üç{üç<NOM><Num:Sg><Poss:No><Case:Nom>})
+					)
+					(NP
+						(NS kilometre{kilometre<NOM><Num:Sg><Poss:No><Case:Nom>})
+					)
+				)
+			)
+			(VS yürü{yürü<VS><Actv><VS>})
+		)
+		(TPMG dü{<Pol:Pos><Tns:Past>} m{<Prsn:1s>})
+	)
+)
+
+ben	ben<NOM><Num:Sg><Poss:No><Case:Nom>	0
+günde	günde<ADV>	0
+üç	üç<NOM><Num:Sg><Poss:No><Case:Nom>	0
+kilometre	kilometre<NOM><Num:Sg><Poss:No><Case:Nom>	0
+yürüdüm	yürü<VS><Actv><VS>-<Pol:Pos><Tns:Past>-<Prsn:1s>	0,2

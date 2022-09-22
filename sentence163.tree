@@ -1,0 +1,30 @@
+(S
+	(VP
+		(VPSSUB
+			(ADVP
+				(NPC
+					(NPS
+						(NP
+							(NS bu{bu<NOM><Num:Sg><Poss:No><Case:Nom>})
+						)
+						(NS nokta{nokta<NOM>})
+					)
+					(CMGB da{<Num:Sg><Poss:No><Case:Loc>})
+				)
+			)
+			(CONJ da{da<CONJ>})
+			(NPSUB
+				(NS yara{yara<NOM>})
+				(PLPMGB lar{<Num:Pl><Poss:No><Case:Nom>})
+			)
+			(VS oluş{oluş<VS><Actv><VS>})
+		)
+		(TPMG uyor{<Pol:Pos><Tns:Pres><Prsn:3s>})
+	)
+)
+
+bu	bu<NOM><Num:Sg><Poss:No><Case:Nom>	0
+noktada	nokta<NOM>-<Num:Sg><Poss:No><Case:Loc>	0,1
+da	da<CONJ>	0
+yaralar	yara<NOM>-<Num:Pl><Poss:No><Case:Nom>	0,1
+oluşuyor	oluş<VS><Actv><VS>-<Pol:Pos><Tns:Pres><Prsn:3s>	0,1

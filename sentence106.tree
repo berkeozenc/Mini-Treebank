@@ -1,0 +1,37 @@
+(S
+	(VP
+		(VPS
+			(ADVP
+				(ADV özellikle{özellikle<ADV>})
+			)
+			(NPACC
+				(NPS
+					(NPS
+						(NP
+							(NS tırnak{tırnak<NOM><Num:Sg><Poss:No><Case:Nom>})
+						)
+						(NS köşe{köşe<NOM>})
+					)
+					(PLPMG ler{<Num:Pl>})
+				)
+				(ACCM i{<Poss:No><Case:Acc>})
+			)
+			(VPS
+				(VPS
+					(ADVP
+						(ADV derin{derin<NOM><Num:Sg><Poss:No><Case:Nom>})
+					)
+					(VS kes{kes<VS>})
+				)
+				(VMG il{<Pasv><VS>} me{<Pol:Neg>})
+			)
+		)
+		(TPMG meli{<Tns:Necc><Prsn:3s>})
+	)
+)
+
+özellikle	özellikle<ADV>	0
+tırnak	tırnak<NOM><Num:Sg><Poss:No><Case:Nom>	0
+köşeleri	köşe<NOM>-<Num:Pl>-<Poss:No><Case:Acc>	0,1,2
+derin	derin<NOM><Num:Sg><Poss:No><Case:Nom>	0
+kesilmemeli	kes<VS>-<Pasv><VS>-<Pol:Neg>-<Tns:Necc><Prsn:3s>	0,2,3

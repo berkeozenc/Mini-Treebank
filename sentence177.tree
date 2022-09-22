@@ -1,0 +1,30 @@
+(S
+	(NPC
+		(NPS
+			(NS baba{baba<NOM>})
+			(PLPMG n{<Num:Sg><Poss:2s>})
+		)
+		(CMGB da{<Case:Loc>})
+	)
+	(NPACC
+		(NPS
+			(NP
+				(NS sarı{sarı<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(NP
+				(NS ilan{ilan<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(NS kağıd{kağı{rT}<NOM>})
+		)
+		(ACCM ı{<Num:Sg><NC><Case:Nom>})
+	)
+	(NPRED
+		(NS var{var<NOM><Num:Sg><Poss:No><Case:Nom>})
+	)
+)
+
+babanda	baba<NOM>-<Num:Sg><Poss:2s>-<Case:Loc>	0,1,2
+sarı	sarı<NOM><Num:Sg><Poss:No><Case:Nom>	0
+ilan	ilan<NOM><Num:Sg><Poss:No><Case:Nom>	0
+kağıdı	kağı{rT}<NOM>-<Num:Sg><NC><Case:Nom>	0,1
+var	var<NOM><Num:Sg><Poss:No><Case:Nom>	0

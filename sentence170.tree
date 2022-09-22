@@ -1,0 +1,27 @@
+(S
+	(VP
+		(ADVP
+			(VPS
+				(NPS
+					(NP
+						(NS bu{bu<NOM><Num:Sg><Poss:No><Case:Nom>})
+					)
+					(NS takım{takım<NOM><Num:Sg><Poss:No><Case:Nom>})
+				)
+				(VS bat{bat<Actv><VS>})
+			)
+			(DAGB madan{<Pol:Pos><Bfr><ADV>})
+		)
+		(NP
+			(VS kurtar{kurtar<VS><Actv><VS>})
+			(DNGB mak{<Pol:Pos><Inf2><NOM><Num:Sg><Poss:No><Case:Nom>})
+		)
+		(VS gerek{gerek<VS><Actv><VS><Pol:Pos><Tns:Imp><Prsn:2s>})
+	)
+)
+
+bu	bu<NOM><Num:Sg><Poss:No><Case:Nom>	0
+takım	takım<NOM><Num:Sg><Poss:No><Case:Nom>	0
+batmadan	bat<Actv><VS>-<Pol:Pos><Bfr><ADV>	0,1
+kurtarmak	kurtar<VS><Actv><VS>-<Pol:Pos><Inf2><NOM><Num:Sg><Poss:No><Case:Nom>	0,1
+gerek	gerek<VS><Actv><VS><Pol:Pos><Tns:Imp><Prsn:2s>	0

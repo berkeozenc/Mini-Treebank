@@ -1,0 +1,35 @@
+(S
+	(VP
+		(VPSSUB
+			(NPSUB
+				(VPS
+					(NP
+						(NS piyano{piyano<NOM><Num:Sg><Poss:No><Case:Nom>})
+					)
+					(VS çal{çal<VS><Actv><VS>})
+				)
+				(DNGB an{<Pol:Pos><AgtA><NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(NPACC
+				(NPS
+					(NS bileğ{bile{rK}<NOM>})
+					(PLPMG in{<Num:Sg><Poss:3s>})
+				)
+				(ACCM i{<Case:Acc>})
+			)
+			(VPS
+				(VPS
+					(NS çelik{çelik<NOM>})
+					(DVG leş{<Num:Sg><Poss:No><Case:Nom><Bec><VS>})
+				)
+				(VMG tir{<Caus><VS>})
+			)
+		)
+		(TPMG ir{<Pol:Pos><Tns:Aor><Prsn:3s>})
+	)
+)
+
+piyano	piyano<NOM><Num:Sg><Poss:No><Case:Nom>	0
+çalan	çal<VS><Actv><VS>-<Pol:Pos><AgtA><NOM><Num:Sg><Poss:No><Case:Nom>	0,1
+bileğini	bile{rK}<NOM>-<Num:Sg><Poss:3s>-<Case:Acc>	0,1,2
+çelikleştirir	çelik<NOM>-<Num:Sg><Poss:No><Case:Nom><Bec><VS>-<Caus><VS>-<Pol:Pos><Tns:Aor><Prsn:3s>	0,1,2,3

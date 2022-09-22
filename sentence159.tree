@@ -1,0 +1,46 @@
+(S
+	(S
+		(VP
+			(VPS
+				(NPSUB
+					(NS sahne{sahne<NOM>})
+					(PLPMGB ler{<Num:Pl><Poss:No><Case:Nom>})
+				)
+				(VPS
+					(VS kapa{kapa<VS>})
+					(VMG n{<Pasv><VS>} ma{<Pol:Neg>})
+				)
+			)
+			(TPMG sın{<Tns:Imp><Prsn:3s>})
+		)
+	)
+	(S
+		(VP
+			(VPS
+				(NPSUB
+					(NPS
+						(NPS
+							(NP
+								(NS hayat{hayat<NOM><Num:Sg><Poss:No><Case:Nom>})
+							)
+							(NS damar{damar<NOM>})
+						)
+						(PLPMG lar{<Num:Pl>})
+					)
+					(NCMB ı{<NC><Case:Nom>})
+				)
+				(VPS
+					(VS tıka{tıka<VS>})
+					(VMG n{<Pasv><VS>} ma{<Pol:Neg>})
+				)
+			)
+			(TPMG sın{<Tns:Imp><Prsn:3s>})
+		)
+	)
+)
+
+sahneler	sahne<NOM>-<Num:Pl><Poss:No><Case:Nom>	0,1
+kapanmasın	kapa<VS>-<Pasv><VS>-<Pol:Neg>-<Tns:Imp><Prsn:3s>	0,2,3
+hayat	hayat<NOM><Num:Sg><Poss:No><Case:Nom>	0
+damarları	damar<NOM>-<Num:Pl>-<NC><Case:Nom>	0,1,2
+tıkanmasın	tıka<VS>-<Pasv><VS>-<Pol:Neg>-<Tns:Imp><Prsn:3s>	0,2,3

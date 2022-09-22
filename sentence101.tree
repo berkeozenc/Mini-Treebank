@@ -1,0 +1,44 @@
+(S
+	(VP
+		(VPSSUB
+			(NPSUB
+				(NPS
+					(NPC
+						(NS ev{ev<NOM>})
+						(CMGB in{<Num:Sg><Poss:No><Case:Gen>})
+					)
+					(NS hanım{hanım<NOM>})
+				)
+				(NCMB ı{<Num:Sg><NC><Case:Nom>})
+			)
+			(NPACC
+				(NS adam{adam<NOM>})
+				(ACCM ı{<Num:Sg><Poss:No><Case:Acc>})
+			)
+			(ADVP
+				(NPC
+					(NPS
+						(NP
+							(NPC
+								(NS yan{yan<NOM>})
+								(CMG da{<Num:Sg><Poss:No><Case:Loc>})
+							)
+							(DNG ki{<Rel><NOM><Num:Sg><Poss:No><Case:Nom>})
+						)
+						(NS oda{oda<NOM>})
+					)
+					(CMGB ya{<Num:Sg><Poss:No><Case:Dat>})
+				)
+			)
+			(VS çağır{çağır<VS><Actv><VS>})
+		)
+		(TPMG dı{<Pol:Pos><Tns:Past><Prsn:3s>})
+	)
+)
+
+evin	ev<NOM>-<Num:Sg><Poss:No><Case:Gen>	0,1
+hanımı	hanım<NOM>-<Num:Sg><NC><Case:Nom>	0,1
+adamı	adam<NOM>-<Num:Sg><Poss:No><Case:Acc>	0,1
+yandaki	yan<NOM>-<Num:Sg><Poss:No><Case:Loc>-<Rel><NOM><Num:Sg><Poss:No><Case:Nom>	0,1,2
+odaya	oda<NOM>-<Num:Sg><Poss:No><Case:Dat>	0,1
+çağırdı	çağır<VS><Actv><VS>-<Pol:Pos><Tns:Past><Prsn:3s>	0,1

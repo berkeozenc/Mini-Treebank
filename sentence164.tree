@@ -1,0 +1,14 @@
+(S
+	(VP
+		(VPS
+			(ADVP
+				(ADV hafifçe{hafifçe<ADV>})
+			)
+			(VS tut{tut<VS><Actv><VS>})
+		)
+		(TPMG un{<Pol:Pos><Tns:Imp><Prsn:2p>})
+	)
+)
+
+hafifçe	hafifçe<ADV>	0
+tutun	tut<VS><Actv><VS>-<Pol:Pos><Tns:Imp><Prsn:2p>	0,1

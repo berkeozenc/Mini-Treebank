@@ -1,0 +1,37 @@
+(S
+	(VP
+		(VPS
+			(ADVP
+				(NPC
+					(NPS
+						(NPS
+							(NP
+								(NS çeşitli{çeşitli<NOM><Num:Sg><Poss:No><Case:Nom>})
+							)
+							(NS mesele{mesele<NOM>})
+						)
+						(PLPMG ler{<Num:Pl>})
+					)
+					(CMGB le{<Poss:No><Case:Ins>})
+				)
+			)
+			(VPS
+				(VS canlan{canlan<VS>})
+				(VMG dır{<Caus><VS>})
+			)
+			(NPACC
+				(NPS
+					(NS muhit{muhit<NOM>})
+					(PLPMG in{<Num:Sg><Poss:3s>})
+				)
+				(ACCM i{<Case:Acc>})
+			)
+		)
+		(TPMG ıyor{<Pol:Pos><Tns:Pres>} du{<Cpl:Past><Prsn:3s>})
+	)
+)
+
+muhitini	muhit<NOM>-<Num:Sg><Poss:3s>-<Case:Acc>	0,1,2
+çeşitli	çeşitli<NOM><Num:Sg><Poss:No><Case:Nom>	0
+meselelerle	mesele<NOM>-<Num:Pl>-<Poss:No><Case:Ins>	0,1,2
+canlandırıyordu	canlan<VS>-<Caus><VS>-<Pol:Pos><Tns:Pres>-<Cpl:Past><Prsn:3s>	0,1,3

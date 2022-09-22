@@ -1,0 +1,30 @@
+(S
+	(VP
+		(VPS
+			(NPS
+				(NP
+					(NS en{en<NOM><Num:Sg><Poss:No><Case:Nom>})
+				)
+				(NS son{son<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(NPS
+				(NP
+					(NS ufak{ufak<NOM><Num:Sg><Poss:No><Case:Nom>})
+				)
+				(NP
+					(NS bir{bir<NOM><Num:Sg><Poss:No><Case:Nom>})
+				)
+				(NS çerçeve{çerçeve<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(VS yap{yap<VS><Actv><VS>})
+		)
+		(TPMG tı{<Pol:Pos><Tns:Past><Prsn:3s>})
+	)
+)
+
+en	en<NOM><Num:Sg><Poss:No><Case:Nom>	0
+son	son<NOM><Num:Sg><Poss:No><Case:Nom>	0
+ufak	ufak<NOM><Num:Sg><Poss:No><Case:Nom>	0
+bir	bir<NOM><Num:Sg><Poss:No><Case:Nom>	0
+çerçeve	çerçeve<NOM><Num:Sg><Poss:No><Case:Nom>	0
+yaptı	yap<VS><Actv><VS>-<Pol:Pos><Tns:Past><Prsn:3s>	0,1

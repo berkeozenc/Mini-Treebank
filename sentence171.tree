@@ -1,0 +1,10 @@
+(S
+	(NS çok{çok<NOM><Num:Sg><Poss:No><Case:Nom>})
+	(NPC
+		(NS mutlu{mutlu<NOM>})
+		(CMGB yum{<Num:Sg><Poss:No><Case:Nom><NPRED><Prsn:1s>})
+	)
+)
+
+çok	çok<NOM><Num:Sg><Poss:No><Case:Nom>	0
+mutluyum	mutlu<NOM>-<Num:Sg><Poss:No><Case:Nom><NPRED><Prsn:1s>	0,1

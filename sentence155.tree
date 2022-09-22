@@ -1,0 +1,20 @@
+(S
+	(VP
+		(VPS
+			(ADVP
+				(NPC
+					(NPS
+						(NS al{al<VS><Actv><VS>})
+						(DNG mak{<Pol:Pos><Inf2><NOM>})
+					)
+					(CMGB tan{<Num:Sg><Poss:No><Case:Abl>})
+				)
+			)
+			(VS çekin{çekin<VS><Actv><VS>})
+		)
+		(Select me{<Pol:Neg><Tns:Imp><Prsn:2s>})
+	)
+)
+
+almaktan	al<VS><Actv><VS>-<Pol:Pos><Inf2><NOM>-<Num:Sg><Poss:No><Case:Abl>	0,1,2
+çekinme	çekin<VS><Actv><VS>-<Pol:Neg><Tns:Imp><Prsn:2s>	1,0

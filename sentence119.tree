@@ -1,0 +1,25 @@
+(S
+	(VP
+		(VPSSUB
+			(ADVP
+				(ADV şimdi{şimdi<ADV>})
+			)
+			(NPSUB
+				(NS otomobil{otomobil<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(ADVP
+				(NPC
+					(NS galeri{galeri<NOM>})
+					(CMGB de{<Num:Sg><Poss:No><Case:Loc>})
+				)
+			)
+			(VS bekl{bekle<VS><Actv><VS>})
+		)
+		(TPMG iyor{<Pol:Pos><Tns:Pres><Prsn:3s>})
+	)
+)
+
+şimdi	şimdi<ADV>	0
+otomobil	otomobil<NOM><Num:Sg><Poss:No><Case:Nom>	0
+galeride	galeri<NOM>-<Num:Sg><Poss:No><Case:Loc>	0,1
+bekliyor	bekle<VS><Actv><VS>-<Pol:Pos><Tns:Pres><Prsn:3s>	0,1

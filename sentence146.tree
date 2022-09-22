@@ -1,0 +1,27 @@
+(S
+	(VP
+		(VPS
+			(NPACC
+				(NPS
+					(NPS
+						(VPS
+							(NP
+								(NS nasıl{nasıl<NOM><Num:Sg><Poss:No><Case:Nom>})
+							)
+							(VS ol{ol<VS><Actv><VS>})
+						)
+						(DNG duğ{<Pol:Pos><InfA><NOM>})
+					)
+					(PLPMG un{<Num:Sg><Poss:2s>})
+				)
+				(ACCM u{<Case:Acc>})
+			)
+			(VS gör{gör<VS><Actv><VS>})
+		)
+		(TPMG dü{<Pol:Pos><Tns:Past>} m{<Prsn:1s>})
+	)
+)
+
+nasıl	nasıl<NOM><Num:Sg><Poss:No><Case:Nom>	0
+olduğunu	ol<VS><Actv><VS>-<Pol:Pos><InfA><NOM>-<Num:Sg><Poss:2s>-<Case:Acc>	0,1,2,3
+gördüm	gör<VS><Actv><VS>-<Pol:Pos><Tns:Past>-<Prsn:1s>	0,2

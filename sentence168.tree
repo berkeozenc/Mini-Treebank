@@ -1,0 +1,41 @@
+(S
+	(VP
+		(VPS
+			(NPACC
+				(NPS
+					(NP
+						(NPS
+							(NPS
+								(VPS
+									(NP
+										(NS kaldır{kaldır<VS><Actv><VS>})
+										(DNGB mak{<Pol:Pos><Inf2><NOM><Num:Sg><Poss:No><Case:Nom>})
+									)
+									(VS iste{iste<VS><Actv><VS>})
+								)
+								(DNG diğ{<Pol:Pos><InfA><NOM>})
+							)
+							(CMG in{<Num:Sg><Poss:No><Case:Gen><NPRED>})
+						)
+						(TPMG iz{<Prsn:1p>})
+					)
+					(NPS
+						(VS uygula{uygula<VS><Actv><VS>})
+						(DNG ma{<Pol:Pos><Inf1><NOM>})
+					)
+				)
+				(ACCM yı{<Num:Sg><Poss:No><Case:Acc>})
+			)
+			(VPS
+				(VS tıkla{tıkla<VS>})
+				(VMG t{<Caus><VS>})
+			)
+		)
+		(TPMG ın{<Pol:Pos><Tns:Imp><Prsn:2p>})
+	)
+)
+
+kaldırmak	kaldır<VS><Actv><VS>-<Pol:Pos><Inf2><NOM><Num:Sg><Poss:No><Case:Nom>	0,1
+istediğiniz	iste<VS><Actv><VS>-<Pol:Pos><InfA><NOM>-<Num:Sg><Poss:No><Case:Gen><NPRED>-<Prsn:1p>	0,1,2,3
+uygulamayı	uygula<VS><Actv><VS>-<Pol:Pos><Inf1><NOM>-<Num:Sg><Poss:No><Case:Acc>	0,1,2
+tıklatın	tıkla<VS>-<Caus><VS>-<Pol:Pos><Tns:Imp><Prsn:2p>	0,1,2

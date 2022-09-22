@@ -1,0 +1,27 @@
+(S
+	(VP
+		(VPS
+			(NPACC
+				(NPS
+					(NPS
+						(NPS
+							(NP
+								(NS yardım{yardım<NOM><Num:Sg><Poss:No><Case:Nom>})
+							)
+							(NS bilgi{bilgi<NOM>})
+						)
+						(PLPMG ler{<Num:Pl>})
+					)
+					(NCM in{<NC>})
+				)
+				(ACCM i{<Case:Acc>})
+			)
+			(VS görüntüle{görüntüle<VS><Actv><VS>})
+		)
+		(TPMG yin{<Pol:Pos><Tns:Imp><Prsn:2p>})
+	)
+)
+
+yardım	yardım<NOM><Num:Sg><Poss:No><Case:Nom>	0
+bilgilerini	bilgi<NOM>-<Num:Pl>-<NC>-<Case:Acc>	0,1,2,3
+görüntüleyin	görüntüle<VS><Actv><VS>-<Pol:Pos><Tns:Imp><Prsn:2p>	0,1

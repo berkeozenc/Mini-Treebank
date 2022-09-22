@@ -1,0 +1,30 @@
+(S
+	(VP
+		(VP
+			(VPS
+				(ADVP
+					(NPC
+						(NPS
+							(NS kendi{kendi<NOM>})
+							(PLPMG m{<Num:Sg><Poss:1s>})
+						)
+						(CMGB den{<Case:Abl>})
+					)
+				)
+				(VS soğu{soğu<VS><Actv><VS>})
+			)
+			(TPMG yor{<Pol:Pos><Tns:Pres>} um{<Prsn:1s>})
+		)
+		(ADVP
+			(NPS
+				(VS ye{y{E}<VS><Actv><VS>})
+				(DNG dik{<Pol:Pos><InfA><NOM>})
+			)
+			(DAGB çe{<Num:Sg><Poss:No><Equ><ADV>})
+		)
+	)
+)
+
+kendimden	kendi<NOM>-<Num:Sg><Poss:1s>-<Case:Abl>	0,1,2
+soğuyorum	soğu<VS><Actv><VS>-<Pol:Pos><Tns:Pres>-<Prsn:1s>	0,2
+yedikçe	y{E}<VS><Actv><VS>-<Pol:Pos><InfA><NOM>-<Num:Sg><Poss:No><Equ><ADV>	0,1,2

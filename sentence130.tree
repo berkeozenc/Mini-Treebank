@@ -1,0 +1,41 @@
+(S
+	(VP
+		(VPSSUB
+			(NPSUB
+				(NS günlük{günlük<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(ADVP
+				(NPC
+					(NPS
+						(NPS
+							(VS gerek{gerek<VS><Actv><VS>})
+							(DNG tiğ{<Pol:Pos><InfA><NOM>})
+						)
+						(NCM in{<Num:Sg><NC>})
+					)
+					(CMGB de{<Case:Loc>})
+				)
+			)
+			(ADVP
+				(VPS
+					(NP
+						(NS otomatik{otomatik<NOM><Num:Sg><Poss:No><Case:Nom>})
+					)
+					(VS ol{ol<VS><Actv><VS>})
+				)
+				(DAGB arak{<Pol:Pos><While><ADV>})
+			)
+			(VPS
+				(VS arşivle{arşivle<VS>})
+				(VMG n{<Pasv><VS>})
+			)
+		)
+		(TPMG ir{<Pol:Pos><Tns:Aor><Prsn:3s>})
+	)
+)
+
+günlük	günlük<NOM><Num:Sg><Poss:No><Case:Nom>	0
+gerektiğinde	gerek<VS><Actv><VS>-<Pol:Pos><InfA><NOM>-<Num:Sg><NC>-<Case:Loc>	0,1,2,3
+otomatik	otomatik<NOM><Num:Sg><Poss:No><Case:Nom>	0
+olarak	ol<VS><Actv><VS>-<Pol:Pos><While><ADV>	0,1
+arşivlenir	arşivle<VS>-<Pasv><VS>-<Pol:Pos><Tns:Aor><Prsn:3s>	0,1,2

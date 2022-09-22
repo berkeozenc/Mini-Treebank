@@ -1,0 +1,44 @@
+(S
+	(VP
+		(VPS
+			(VPS
+				(ADVP
+					(NPC
+						(NPS
+							(NPS
+								(NP
+									(NS konsol{konsol<NOM><Num:Sg><Poss:No><Case:Nom>})
+								)
+								(NS pencere{pencere<NOM>})
+							)
+							(NCM sin{<Num:Sg><NC>})
+						)
+						(CMGB de{<Case:Loc>})
+					)
+				)
+				(NPACC
+					(NPS
+						(NP
+							(VPS
+								(VS sil{sil<VS>})
+								(VMG in{<Pasv><VS>})
+							)
+							(DNGB ecek{<Pol:Pos><InfF><NOM><Num:Sg><Poss:No><Case:Nom>})
+						)
+						(NS görev{görev<NOM>})
+					)
+					(ACCM i{<Num:Sg><Poss:No><Case:Acc>})
+				)
+				(VS tıkla{tıkla<VS>})
+			)
+			(VMG t{<Caus><VS>})
+		)
+		(TPMG ın{<Pol:Pos><Tns:Imp><Prsn:2p>})
+	)
+)
+
+konsol	konsol<NOM><Num:Sg><Poss:No><Case:Nom>	0
+penceresinde	pencere<NOM>-<Num:Sg><NC>-<Case:Loc>	0,1,2
+silinecek	sil<VS>-<Pasv><VS>-<Pol:Pos><InfF><NOM><Num:Sg><Poss:No><Case:Nom>	0,1,2
+görevi	görev<NOM>-<Num:Sg><Poss:No><Case:Acc>	0,1
+tıklatın	tıkla<VS>-<Caus><VS>-<Pol:Pos><Tns:Imp><Prsn:2p>	0,1,2

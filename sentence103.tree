@@ -1,0 +1,29 @@
+(S
+	(NP
+		(NS dede{dede<NOM>})
+		(PLPMGB si{<Num:Sg><Poss:3s><Case:Nom>})
+	)
+	(NPRED
+		(NPS
+			(NP
+				(NS katı{katı<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(NP
+				(NS kaba{kaba<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(NPS
+				(NP
+					(NS bir{bir<NOM><Num:Sg><Poss:No><Case:Nom>})
+				)
+				(NS adam{adam<NOM>})
+			)
+		)
+		(TPMG dı{<Num:Sg><Poss:No><Case:Nom><NPRED><Cpl:Past><Prsn:3s>})
+	)
+)
+
+dedesi	dede<NOM>-<Num:Sg><Poss:3s><Case:Nom>	0,1
+katı	katı<NOM><Num:Sg><Poss:No><Case:Nom>	0
+kaba	kaba<NOM><Num:Sg><Poss:No><Case:Nom>	0
+bir	bir<NOM><Num:Sg><Poss:No><Case:Nom>	0
+adamdı	adam<NOM>-<Num:Sg><Poss:No><Case:Nom><NPRED><Cpl:Past><Prsn:3s>	0,1

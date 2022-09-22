@@ -1,0 +1,16 @@
+(S
+	(NP
+		(VPS
+			(VS unut{unut<VS>})
+			(VMG ul{<Pasv><VS>} ma{<Pol:Neg>})
+		)
+		(DNGB z{<AgtA><NOM><Num:Sg><Poss:No><Case:Nom>})
+	)
+	(NPRED
+		(NS adam{adam<NOM>})
+		(TPMG dı{<Num:Sg><Poss:No><Case:Nom><NPRED><Cpl:Past><Prsn:3s>})
+	)
+)
+
+unutulmaz	unut<VS>-<Pasv><VS>-<Pol:Neg>-<AgtA><NOM><Num:Sg><Poss:No><Case:Nom>	0,2,3
+adamdı	adam<NOM>-<Num:Sg><Poss:No><Case:Nom><NPRED><Cpl:Past><Prsn:3s>	0,1

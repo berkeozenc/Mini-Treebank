@@ -1,0 +1,15 @@
+(S
+	(VP
+		(VPS
+			(NPC
+				(NS ticaret{ticaret<NOM>})
+				(CMGB le{<Num:Sg><Poss:No><Case:Ins>})
+			)
+			(VS uğraş{uğraş<VS><Actv><VS>})
+		)
+		(TPMG ıyor{<Pol:Pos><Tns:Pres><Prsn:3s>})
+	)
+)
+
+ticaretle	ticaret<NOM>-<Num:Sg><Poss:No><Case:Ins>	0,1
+uğraşıyor	uğraş<VS><Actv><VS>-<Pol:Pos><Tns:Pres><Prsn:3s>	0,1
