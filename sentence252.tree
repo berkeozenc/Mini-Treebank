@@ -1,0 +1,35 @@
+(S
+	(VP
+		(VPS
+			(ADVP
+				(NPC
+					(NPS
+						(NPS
+							(NPC
+								(NPS
+									(NS on{o{rN}<NOM>})
+									(PLPMG lar{<Num:Pl>})
+								)
+								(CMGB ın{<Poss:No><Case:Gen>})
+							)
+							(NS gardırop{gardırop<NOM>})
+						)
+						(PLPMG lar{<Num:Pl>} ın{<Poss:3p>})
+					)
+					(CMGB a{<Case:Dat>})
+				)
+			)
+			(INTRJ keşke{keşke<INTRJ>})
+			(VPS
+				(VS bak{bak<VS><Actv><VS>})
+				(VMG abil{<Abil><Pol:Pos>})
+			)
+		)
+		(TPMG se{<Tns:Cond>} m{<Prsn:1s>})
+	)
+)
+
+onların	o{rN}<NOM>-<Num:Pl>-<Poss:No><Case:Gen>	0,1,2
+gardıroplarına	gardırop<NOM>-<Num:Pl>-<Poss:3p>-<Case:Dat>	0,2,3
+keşke	keşke<INTRJ>	0
+bakabilsem	bak<VS><Actv><VS>-<Abil><Pol:Pos>-<Tns:Cond>-<Prsn:1s>	0,1,3

@@ -1,0 +1,29 @@
+(S
+	(NPACC
+		(NPS
+			(NPC
+				(NS iş{iş<NOM>})
+				(CMG in{<Num:Sg><Poss:No><Case:Gen>})
+			)
+			(NP
+				(NS bu{bu<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(NS taraf{taraf<NOM>})
+		)
+		(ACCM ı{<Num:Sg><Poss:No><Case:Acc>})
+	)
+	(CONJ da{da<CONJ>})
+	(NPRED
+		(NPS
+			(NS sorun{sorun<NOM>})
+			(DNG lu{<With><NOM>})
+		)
+		(TPMG dur{<Num:Sg><Poss:No><Case:Nom><NPRED><Prsn:3s>})
+	)
+)
+
+işin	iş<NOM>-<Num:Sg><Poss:No><Case:Gen>	0,1
+bu	bu<NOM><Num:Sg><Poss:No><Case:Nom>	0
+tarafı	taraf<NOM>-<Num:Sg><Poss:No><Case:Acc>	0,1
+da	da<CONJ>	0
+sorunludur	sorun<NOM>-<With><NOM>-<Num:Sg><Poss:No><Case:Nom><NPRED><Prsn:3s>	0,1,2

@@ -1,0 +1,28 @@
+(S
+	(VP
+		(VPS
+			(ADVP
+				(ADV haliyle{haliyle<ADV>})
+			)
+			(NPACC
+				(NPS
+					(NP
+						(NS o{o<NOM><Num:Sg><Poss:No><Case:Nom>})
+					)
+					(NS kişi{kişi<NOM>})
+				)
+				(ACCM yi{<Num:Sg><Poss:No><Case:Acc>})
+			)
+			(VPS
+				(VS önemse{önemse<VS><Actv><VS>})
+				(VMG me{<Pol:Neg>})
+			)
+		)
+		(TPMG miş{<Tns:Narr>} ti{<Cpl:Past><Prsn:3s>})
+	)
+)
+
+haliyle	haliyle<ADV>	0
+o	o<NOM><Num:Sg><Poss:No><Case:Nom>	0
+kişiyi	kişi<NOM><Num:Sg><Poss:No><Case:Acc>	0,1
+önemsememişti	önemse<VS><Actv><VS><Pol:Neg><Tns:Narr><Cpl:Past><Prsn:3s>	0,1,3

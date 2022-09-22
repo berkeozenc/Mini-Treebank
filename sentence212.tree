@@ -1,0 +1,33 @@
+(S
+	(VP
+		(VPS
+			(ADVP
+				(NPC
+					(NPS
+						(NPS
+							(NP
+								(NPS
+									(NP
+										(NS futbol{futbol<NOM><Num:Sg><Poss:No><Case:Nom>})
+									)
+									(NS yönetim{yönetim<NOM>})
+								)
+								(NCMB i{<Num:Sg><NC><Case:Nom>})
+							)
+							(NS iş{iş<NOM>})
+						)
+						(NCM in{<Num:Sg><NC>})
+					)
+					(CMGB e{<Case:Dat>})
+				)
+			)
+			(VS gir{gir<VS><Actv><VS>})
+		)
+		(TPMG ecek{<Pol:Pos><Tns:Fut><Prsn:3s>})
+	)
+)
+
+futbol	futbol<NOM><Num:Sg><Poss:No><Case:Nom>	0
+yönetimi	yönetim<NOM>-<Num:Sg><NC><Case:Nom>	0,1
+işine	iş<NOM>-<Num:Sg><NC>-<Case:Dat>	0,1,2
+girecek	gir<VS><Actv><VS>-<Pol:Pos><Tns:Fut><Prsn:3s>	0,1

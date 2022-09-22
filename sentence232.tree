@@ -1,0 +1,13 @@
+(S
+	(VP
+		(VS geç{geç<VS><Actv><VS>})
+		(TPMG iniz{<Pol:Pos><Tns:Imp><Prsn:2p>})
+	)
+	(NP
+		(NS efendi{efendi<NOM>})
+		(PLPMGB m{<Num:Sg><Poss:1s><Case:Nom>})
+	)
+)
+
+geçiniz	geç<VS><Actv><VS>-<Pol:Pos><Tns:Imp><Prsn:2p>	0,1
+efendim	efendi<NOM>-<Num:Sg><Poss:1s><Case:Nom>	0,1

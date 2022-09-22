@@ -1,0 +1,35 @@
+(S
+	(VP
+		(VPS
+			(NPACC
+				(NPS
+					(NPS
+						(NPC
+							(NPS
+								(NPS
+									(NP
+										(VS uygula{uygula<VS><Actv><VS>})
+										(DNGB ma{<Pol:Pos><Inf1><NOM><Num:Sg><Poss:No><Case:Nom>})
+									)
+									(NS hata{hata<NOM>})
+								)
+								(NCM sın{<Num:Sg><NC>})
+							)
+							(CMGB ın{<Case:Gen>})
+						)
+						(NS tarih{tarih<NOM>})
+					)
+					(NCM in{<Num:Sg><NC>})
+				)
+				(ACCM i{<Case:Acc>})
+			)
+			(VS belirt{belirt<VS><Actv><VS>})
+		)
+		(TPMG ir{<Pol:Pos><Tns:Aor><Prsn:3s>})
+	)
+)
+
+uygulama	uygula<VS><Actv><VS>-<Pol:Pos><Inf1><NOM><Num:Sg><Poss:No><Case:Nom>	0,1
+hatasının	hata<NOM>-<Num:Sg><NC>-<Case:Gen>	0,1,2
+tarihini	tarih<NOM>-<Num:Sg><NC>-<Case:Acc>	0,1,2
+belirtir	belirt<VS><Actv><VS>-<Pol:Pos><Tns:Aor><Prsn:3s>	0,1

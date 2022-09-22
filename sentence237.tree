@@ -1,0 +1,38 @@
+(S
+	(VP
+		(VPS
+			(NP
+				(NPS
+					(NPC
+						(NPS
+							(NPS
+								(NPC
+									(NPS
+										(NP
+											(NS bir{bir<NOM><Num:Sg><Poss:No><Case:Nom>})
+										)
+										(NS hanım{hanım<NOM>})
+									)
+									(CMGB ın{<Num:Sg><Poss:No><Case:Gen>})
+								)
+								(NS yan{yan<NOM>})
+							)
+							(NCM ın{<Num:Sg><NC>})
+						)
+						(CMGB da{<Case:Loc>})
+					)
+					(NS hizmetçi{hizmetçi<NOM>})
+				)
+				(DNGB lik{<State><NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(VS yap{yap{AORA}<VS><Actv><VS>})
+		)
+		(TPMG acak{<Pol:Pos><Tns:Fut>} tı{<Cpl:Past><Prsn:3s>})
+	)
+)
+
+bir	bir<NOM><Num:Sg><Poss:No><Case:Nom>	0
+hanımın	hanım<NOM>-<Num:Sg><Poss:No><Case:Gen>	0,1
+yanında	yan<NOM>-<Num:Sg><NC>-<Case:Loc>	0,1,2
+hizmetçilik	hizmetçi<NOM>-<State><NOM><Num:Sg><Poss:No><Case:Nom>	0,1
+yapacaktı	yap{AORA}<VS><Actv><VS>-<Pol:Pos><Tns:Fut>-<Cpl:Past><Prsn:3s>	0,2

@@ -1,0 +1,28 @@
+(S
+	(NPSUB
+		(NPS
+			(NP
+				(NS tüm{tüm<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(NS dosya{dosya<NOM>})
+		)
+		(PLPMGB lar{<Num:Pl><Poss:No><Case:Nom>})
+	)
+	(NPC
+		(NPS
+			(NPS
+				(VPS
+					(VS dönüş{dönüş<VS>})
+					(VMG tür{<Caus><VS>} ül{<Pasv>})
+				)
+				(DNG düğ{<Pol:Pos><InfA><NOM>})
+			)
+			(PLPMG ün{<Num:Sg><Poss:3s>})
+		)
+		(CMGB de{<Case:Loc>})
+	)
+)
+
+tüm	tüm<NOM><Num:Sg><Poss:No><Case:Nom>	0
+dosyalar	dosya<NOM>-<Num:Pl><Poss:No><Case:Nom>	0,1
+dönüştürüldüğünde	dönüş<VS>-<Caus><VS>-<Pasv>-<Pol:Pos><InfA><NOM>-<Num:Sg><Poss:3s>-<Case:Loc>	0,2,3,4,5

@@ -1,0 +1,22 @@
+(S
+	(VP
+		(VPSSUB
+			(NPSUB
+				(NS prens{prens<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(POSTPP
+				(NP
+					(NS çocuk{çocu{rK}<NOM><Num:Sg><Poss:No><Case:Nom>})
+				)
+				(POSTP gibi{gibi<POSTP>})
+			)
+			(VS yalvar{yalvar<VS><Actv><VS>})
+		)
+		(TPMG ıyor{<Pol:Pos><Tns:Pres>} du{<Cpl:Past><Prsn:3s>})
+	)
+)
+
+prens	prens<NOM><Num:Sg><Poss:No><Case:Nom>	0
+çocuk	çocu{rK}<NOM><Num:Sg><Poss:No><Case:Nom>	0
+gibi	gibi<POSTP>	0
+yalvarıyordu	yalvar<VS><Actv><VS>-<Pol:Pos><Tns:Pres>-<Cpl:Past><Prsn:3s>	0,2

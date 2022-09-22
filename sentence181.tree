@@ -1,0 +1,30 @@
+(S
+	(NPSUB
+		(NS bu{bu<NOM><Num:Sg><Poss:No><Case:Nom>})
+	)
+	(NPRED
+		(NPS
+			(NP
+				(VPS
+					(VS alış{alış<VS>})
+					(VMG ıl{<Pasv><VS>})
+				)
+				(DNGB mış{<Pol:Pos><AgtP><NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(NP
+				(NS bir{bir<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(NP
+				(NS üretim{üretim<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(NS değil{değil<NOM>})
+		)
+		(TPMG di{<Num:Sg><Poss:No><Case:Nom><NPRED><Cpl:Past><Prsn:3s>})
+	)
+)
+
+bu	bu<NOM><Num:Sg><Poss:No><Case:Nom>	0
+alışılmış	alış<VS>-<Pasv><VS>-<Pol:Pos><AgtP><NOM><Num:Sg><Poss:No><Case:Nom>	0,1,2
+bir	bir<NOM><Num:Sg><Poss:No><Case:Nom>	0
+üretim	üretim<NOM><Num:Sg><Poss:No><Case:Nom>	0
+değildi	değil<NOM>-<Num:Sg><Poss:No><Case:Nom><NPRED><Cpl:Past><Prsn:3s>	0,1

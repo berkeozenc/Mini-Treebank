@@ -1,0 +1,27 @@
+(S
+	(VP
+		(VPS
+			(ADVP
+				(NPC
+					(NPS
+						(NP
+							(NS yeni{yeni<NOM><Num:Sg><Poss:No><Case:Nom>})
+						)
+						(NS parola{parola<NOM>})
+					)
+					(CMGB yla{<Num:Sg><Poss:No><Case:Ins>})
+				)
+			)
+			(NP
+				(NS oturum{oturum<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(VS aç{aç<VS><Actv><VS>})
+		)
+		(TPMG ın{<Pol:Pos><Tns:Imp><Prsn:2p>})
+	)
+)
+
+yeni	yeni<NOM><Num:Sg><Poss:No><Case:Nom>	0
+parolayla	parola<NOM>-<Num:Sg><Poss:No><Case:Ins>	0,1
+oturum	oturum<NOM><Num:Sg><Poss:No><Case:Nom>	0
+açın	aç<VS><Actv><VS>-<Pol:Pos><Tns:Imp><Prsn:2p>	0,1

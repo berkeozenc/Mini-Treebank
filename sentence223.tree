@@ -1,0 +1,27 @@
+(S
+	(NPRED
+		(VPS
+			(NPACC
+				(NPS
+					(NP
+						(NS bir{bir<NOM><Num:Sg><Poss:No><Case:Nom>})
+					)
+					(NS aygıt{aygıt<NOM>})
+				)
+				(ACCM ı{<Num:Sg><Poss:No><Case:Acc>})
+			)
+			(VPS
+				(NP
+					(NS işlevsiz{işlevsiz<NOM><Num:Sg><Poss:No><Case:Nom>})
+				)
+				(VS bırak{bırak<VS><Actv><VS>})
+			)
+		)
+		(DNGB ma{<Pol:Pos><Inf1><NOM><Num:Sg><Poss:No><Case:Nom>})
+	)
+)
+
+bir	bir<NOM><Num:Sg><Poss:No><Case:Nom>	0
+aygıtı	aygıt<NOM>-<Num:Sg><Poss:No><Case:Acc>	0,1
+işlevsiz	işlevsiz<NOM><Num:Sg><Poss:No><Case:Nom>	0
+bırakma	bırak<VS><Actv><VS>-<Pol:Pos><Inf1><NOM><Num:Sg><Poss:No><Case:Nom>	0,1

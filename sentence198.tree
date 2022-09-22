@@ -1,0 +1,34 @@
+(S
+	(S
+		(VP
+			(VPS
+				(ADVP
+					(NPC
+						(NS lise{lise<NOM>})
+						(CMGB de{<Num:Sg><Poss:No><Case:Loc>})
+					)
+				)
+				(VS oyna{oyna<VS><Actv><VS>})
+			)
+			(TPMG dı{<Pol:Pos><Tns:Past>} m{<Prsn:1s>})
+		)
+	)
+	(CONJ ve{ve<CONJ>})
+	(S
+		(VP
+			(VPS
+				(NP
+					(NS ödül{ödül<NOM><Num:Sg><Poss:No><Case:Nom>})
+				)
+				(VS al{al<VS><Actv><VS>})
+			)
+			(TPMG dı{<Pol:Pos><Tns:Past>} m{<Prsn:1s>})
+		)
+	)
+)
+
+lisede	lise<NOM>-<Num:Sg><Poss:No><Case:Loc>	0,1
+oynadım	oyna<VS><Actv><VS>-<Pol:Pos><Tns:Past>-<Prsn:1s>	0,2
+ve	ve<CONJ>	0
+ödül	ödül<NOM><Num:Sg><Poss:No><Case:Nom>	0
+aldım	al<VS><Actv><VS>-<Pol:Pos><Tns:Past>-<Prsn:1s>	0,2

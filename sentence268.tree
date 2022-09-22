@@ -1,0 +1,42 @@
+(S
+	(VP
+		(VPS
+			(ADVP
+				(NPC
+					(NPS
+						(NP
+							(NPS
+								(NP
+									(NS bölgesel{bölgesel<NOM><Num:Sg><Poss:No><Case:Nom>})
+								)
+								(NS biçim{biçim<NOM>})
+							)
+							(PLPMGB ler{<Num:Pl><Poss:No><Case:Nom>})
+						)
+						(CONJ ve{ve<CONJ>})
+						(NPS
+							(NS dil{dil<NOM>})
+							(PLPMG ler{<Num:Pl>})
+						)
+					)
+					(CMGB le{<Poss:No><Case:Ins>})
+				)
+			)
+			(NP
+				(NS ne{ne<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(VPS
+				(VS yap{yap{AORA}<VS><Actv><VS>})
+				(VMG abil{<Abil><Pol:Pos>})
+			)
+		)
+		(TPMG ir{<Tns:Aor>} im{<Prsn:1s>})
+	)
+)
+
+bölgesel	bölgesel<NOM><Num:Sg><Poss:No><Case:Nom>	0
+biçimler	biçim<NOM>-<Num:Pl><Poss:No><Case:Nom>	0,1
+ve	ve<CONJ>	0
+dillerle	dil<NOM>-<Num:Pl>-<Poss:No><Case:Ins>	0,1,2
+ne	ne<NOM><Num:Sg><Poss:No><Case:Nom>	0
+yapabilirim	yap{AORA}<VS><Actv><VS>-<Abil><Pol:Pos>-<Tns:Aor>-<Prsn:1s>	0,1,3

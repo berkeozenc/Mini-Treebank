@@ -1,0 +1,16 @@
+(S
+	(NPSUB
+		(NP
+			(NS cimri{cimri<NOM><Num:Sg><Poss:No><Case:Nom>})
+		)
+		(NS biri{biri<NOM><Num:Sg><Poss:No><Case:Nom>})
+	)
+	(NPRED
+		(NS değil{değil<NOM>})
+		(TPMG im{<Num:Sg><Poss:No><Case:Nom><NPRED><Prsn:1s>} dir{<Cpl:Aor>})
+	)
+)
+
+cimri	cimri<NOM><Num:Sg><Poss:No><Case:Nom>	0
+biri	biri<NOM><Num:Sg><Poss:No><Case:Nom>	0
+değilimdir	değil<NOM>-<Num:Sg><Poss:No><Case:Nom><NPRED><Prsn:1s>-<Cpl:Aor>	0,2

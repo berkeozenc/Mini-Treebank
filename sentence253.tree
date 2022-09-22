@@ -1,0 +1,17 @@
+(S
+	(VP
+		(VPS
+			(ADVP
+				(NPC
+					(NS sahil{sahil<NOM>})
+					(CMGB de{<Num:Sg><Poss:No><Case:Loc>})
+				)
+			)
+			(VS yürü{yürü<VS><Actv><VS>})
+		)
+		(TPMG dü{<Pol:Pos><Tns:Past>} k{<Prsn:1p>})
+	)
+)
+
+sahilde	sahil<NOM>-<Num:Sg><Poss:No><Case:Loc>	0,1
+yürüdük	yürü<VS><Actv><VS>-<Pol:Pos><Tns:Past>-<Prsn:1p>	0,2

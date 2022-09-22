@@ -1,0 +1,36 @@
+(S
+	(VP
+		(VPS
+			(ADVP
+				(VPS
+					(ADVP
+						(NPC
+							(NS içeri{içeri<NOM>})
+							(CMGB ye{<Num:Sg><Poss:No><Case:Dat>})
+						)
+					)
+					(NPS
+						(NP
+							(NS bir{bir<NOM><Num:Sg><Poss:No><Case:Nom>})
+						)
+						(NS kişi{kişi<NOM><Num:Sg><Poss:No><Case:Nom>})
+					)
+					(VS gir{gir<VS><Actv><VS>})
+				)
+				(DAGB erek{<Pol:Pos><While><ADV>})
+			)
+			(NP
+				(NS tabanca{tabanca<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(VS göster{göster<VS><Actv><VS>})
+		)
+		(TPMG di{<Pol:Pos><Tns:Past><Prsn:3s>})
+	)
+)
+
+içeriye	içeri<NOM>-<Num:Sg><Poss:No><Case:Dat>	0,1
+bir	bir<NOM><Num:Sg><Poss:No><Case:Nom>	0
+kişi	kişi<NOM><Num:Sg><Poss:No><Case:Nom>	0
+girerek	gir<VS><Actv><VS>-<Pol:Pos><While><ADV>	0,1
+tabanca	tabanca<NOM><Num:Sg><Poss:No><Case:Nom>	0
+gösterdi	göster<VS><Actv><VS>-<Pol:Pos><Tns:Past><Prsn:3s>	0,1

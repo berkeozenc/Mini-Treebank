@@ -1,0 +1,15 @@
+(S
+	(VP
+		(VPSSUB
+			(NPSUB
+				(NS öğretmen{öğretmen<NOM>})
+				(PLPMGB ler{<Num:Pl><Poss:No><Case:Nom>})
+			)
+			(VS bekl{bekle<VS><Actv><VS>})
+		)
+		(TPMG iyor{<Pol:Pos><Tns:Pres><Prsn:3s>})
+	)
+)
+
+öğretmenler	öğretmen<NOM>-<Num:Pl><Poss:No><Case:Nom>	0,1
+bekliyor	bekle<VS><Actv><VS>-<Pol:Pos><Tns:Pres><Prsn:3s>	0,1

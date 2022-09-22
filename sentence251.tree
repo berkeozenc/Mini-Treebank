@@ -1,0 +1,48 @@
+(S
+	(VP
+		(VPS
+			(NPACC
+				(NPS
+					(NPS
+						(NPC
+							(NPS
+								(NS bacak{bacak<NOM>})
+								(PLPMG lar{<Num:Pl>} ın{<Poss:3s>})
+							)
+							(CMGB dan{<Case:Abl>})
+						)
+						(NS bir{bir<NOM>})
+					)
+					(NCM in{<Num:Sg><NC>})
+				)
+				(ACCM i{<Case:Acc>})
+			)
+			(ADVP
+				(NPC
+					(NPS
+						(NP
+							(NS akrilik{akrilik<NOM><Num:Sg><Poss:No><Case:Nom>})
+						)
+						(NS boya{boya<NOM>})
+					)
+					(CMGB yla{<Num:Sg><Poss:No><Case:Ins>})
+				)
+			)
+			(ADVP
+				(NPC
+					(NS kırmızı{kırmızı<NOM>})
+					(CMGB ya{<Num:Sg><Poss:No><Case:Dat>})
+				)
+			)
+			(VS boya{boya<VS><Actv><VS>})
+		)
+		(TPMG dı{<Pol:Pos><Tns:Past>} m{<Prsn:1s>})
+	)
+)
+
+bacaklarından	bacak<NOM>-<Num:Pl>-<Poss:3s>-<Case:Abl>	0,2,3
+birini	bir<NOM>-<Num:Sg><NC>-<Case:Acc>	0,1,2
+akrilik	akrilik<NOM><Num:Sg><Poss:No><Case:Nom>	0
+boyayla	boya<NOM>-<Num:Sg><Poss:No><Case:Ins>	0,1
+kırmızıya	kırmızı<NOM>-<Num:Sg><Poss:No><Case:Dat>	0,1
+boyadım	boya<VS><Actv><VS>-<Pol:Pos><Tns:Past>-<Prsn:1s>	0,2

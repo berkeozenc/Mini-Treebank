@@ -1,0 +1,28 @@
+(S
+	(VP
+		(VPSSUB
+			(NPSUB
+				(NS kimse{kimse<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(NPACC
+				(NPS
+					(NPS
+						(VS karşılaştır{karşılaştır<VS><Actv><VS>})
+						(DNG ma{<Pol:Pos><Inf1><NOM>})
+					)
+					(PLPMG lar{<Num:Pl>})
+				)
+				(ACCM ı{<Poss:No><Case:Acc>})
+			)
+			(VPS
+				(VS sev{sev<VS><Actv><VS>})
+				(VMG m{<Pol:Neg>})
+			)
+		)
+		(TPMG iyor{<Tns:Pres><Prsn:3s>})
+	)
+)
+
+kimse	kimse<NOM><Num:Sg><Poss:No><Case:Nom>	0
+karşılaştırmaları	karşılaştır<VS><Actv><VS>-<Pol:Pos><Inf1><NOM>-<Num:Pl>-<Poss:No><Case:Acc>	0,1,2,3
+sevmiyor	sev<VS><Actv><VS>-<Pol:Neg>-<Tns:Pres><Prsn:3s>	0,1,2

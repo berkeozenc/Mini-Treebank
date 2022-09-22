@@ -1,0 +1,21 @@
+(S
+	(VP
+		(VPS
+			(ADVP
+				(VPS
+					(NP
+						(NS aktris{aktris<NOM><Num:Sg><Poss:No><Case:Nom>})
+					)
+					(VS ol{ol<VS><Actv><VS>})
+				)
+				(DAGB arak{<Pol:Pos><While><ADV>})
+			)
+			(VS doğ{doğ<VS><Actv><VS>})
+		)
+		(TPMG muş{<Pol:Pos><Tns:Narr><Prsn:3s>})
+	)
+)
+
+aktris	aktris<NOM><Num:Sg><Poss:No><Case:Nom>	0
+olarak	ol<VS><Actv><VS>-<Pol:Pos><While><ADV>	0,1
+doğmuş	doğ<VS><Actv><VS>-<Pol:Pos><Tns:Narr><Prsn:3s>	0,1

@@ -1,0 +1,25 @@
+(S
+	(VP
+		(VPS
+			(NPACC
+				(NPS
+					(NS kendi{kendi<NOM>})
+					(PLPMG sin{<Num:Sg><Poss:3s>})
+				)
+				(ACCM i{<Case:Acc>})
+			)
+			(ADVP
+				(ADV hiç{hiç<ADV>})
+			)
+			(VPS
+				(VS tanı{tanı<VS><Actv><VS>})
+				(VMG m{<Pol:Neg>})
+			)
+		)
+		(TPMG ıyor{<Tns:Pres>} du{<Cpl:Past>} m{<Prsn:1s>})
+	)
+)
+
+kendisini	kendi<NOM>-<Num:Sg><Poss:3s>-<Case:Acc>	0,1,2
+hiç	hiç<ADV>	0
+tanımıyordum	tanı<VS><Actv><VS>-<Pol:Neg>-<Tns:Pres>-<Cpl:Past>-<Prsn:1s>	0,1,4

@@ -1,0 +1,32 @@
+(S
+	(VP
+		(VPSSUB
+			(NP
+				(NS üstelik{üstelik<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(NPSUB
+				(NS yer{yer<NOM>})
+				(PLPMGB iniz{<Num:Sg><Poss:2p><Case:Nom>})
+			)
+			(CONJ de{de<CONJ>})
+			(NP
+				(NP
+					(NS pek{pek<NOM><Num:Sg><Poss:No><Case:Nom>})
+				)
+				(NS sağlam{sağlam<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(VPS
+				(VS say{say<VS>})
+				(VMG ıl{<Pasv><VS>} ma{<Pol:Neg>})
+			)
+		)
+		(TPMG z{<Tns:Aor><Prsn:3s>})
+	)
+)
+
+üstelik	üstelik<NOM><Num:Sg><Poss:No><Case:Nom>	0
+yeriniz	yer<NOM>-<Num:Sg><Poss:2p><Case:Nom>	0,1
+de	de<CONJ>	0
+pek	pek<NOM><Num:Sg><Poss:No><Case:Nom>	0
+sağlam	sağlam<NOM><Num:Sg><Poss:No><Case:Nom>	0
+sayılmaz	say<VS>-<Pasv><VS>-<Pol:Neg>-<Tns:Aor><Prsn:3s>	0,2,3

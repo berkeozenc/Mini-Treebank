@@ -1,0 +1,28 @@
+(S
+	(S
+		(NP
+			(NP
+				(VS kaç{kaç<VS><Actv><VS>})
+				(DNGB an{<Pol:Pos><AgtA><NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(NS balık{balık<NOM><Num:Sg><Poss:No><Case:Nom>})
+		)
+		(NPRED
+			(NS büyük{büyük<NOM><Num:Sg><Poss:No><Case:Nom>})
+		)
+	)
+	(S
+		(VP
+			(VPS
+				(VS sor{sor<VS><Actv><VS>})
+				(VMG ma{<Pol:Neg>})
+			)
+			(TPMG yın{<Tns:Imp><Prsn:2p>})
+		)
+	)
+)
+
+kaçan	kaç<VS><Actv><VS>-<Pol:Pos><AgtA><NOM><Num:Sg><Poss:No><Case:Nom>	0,1
+balık	balık<NOM><Num:Sg><Poss:No><Case:Nom>	0
+büyük	büyük<NOM><Num:Sg><Poss:No><Case:Nom>	0
+sormayın	sor<VS><Actv><VS>-<Pol:Neg>-<Tns:Imp><Prsn:2p>	0,1,2

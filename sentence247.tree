@@ -1,0 +1,27 @@
+(S
+	(CONJ yani{yani<CONJ>})
+	(NPSUB
+		(NS hepimiz{hepimiz<NOM><Num:Sg><Poss:No><Case:Nom>})
+	)
+	(VP1P
+		(VPS
+			(NP
+				(NS iş{iş<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(VS bul{bul<VS><Actv><VS>})
+		)
+		(TPMG1P ur{<Pol:Pos><Tns:Aor><Prsn:3s>})
+	)
+	(CONJ da{da<CONJ>})
+	(VP
+		(VS çalış{çalış<VS><Actv><VS>})
+		(TPMG ır{<Pol:Pos><Tns:Aor>} sa{<Cpl:Cond>} k{<Prsn:1p>})
+	)
+)
+
+yani	yani<CONJ>	0
+hepimiz	hepimiz<NOM><Num:Sg><Poss:No><Case:Nom>	0
+iş	iş<NOM><Num:Sg><Poss:No><Case:Nom>	0
+bulur	bul<VS><Actv><VS>-<Pol:Pos><Tns:Aor><Prsn:3s>	0,1
+da	da<CONJ>	0
+çalışırsak	çalış<VS><Actv><VS>-<Pol:Pos><Tns:Aor>-<Cpl:Cond>-<Prsn:1p>	0,3

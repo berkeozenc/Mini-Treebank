@@ -1,0 +1,15 @@
+(S
+	(VP
+		(VPSSUB
+			(NPSUB
+				(VS anla{anla<VS><Actv><VS>})
+				(DNGB yan{<Pol:Pos><AgtA><NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(VS anla{anla<VS><Actv><VS>})
+		)
+		(TPMG r{<Pol:Pos><Tns:Aor><Prsn:3s>})
+	)
+)
+
+anlayan	anla<VS><Actv><VS>-<Pol:Pos><AgtA><NOM><Num:Sg><Poss:No><Case:Nom>	0,1
+anlar	anla<VS><Actv><VS>-<Pol:Pos><Tns:Aor><Prsn:3s>	0,1

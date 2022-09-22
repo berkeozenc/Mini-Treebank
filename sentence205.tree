@@ -1,0 +1,43 @@
+(S
+	(VP
+		(VPS
+			(NPACC
+				(NPS
+					(NPC
+						(NPS
+							(NP
+								(NS karşılıklı{karşılıklı<NOM><Num:Sg><Poss:No><Case:Nom>})
+							)
+							(NPS
+								(NP
+									(NS iki{iki<NOM><Num:Sg><Poss:No><Case:Nom>})
+								)
+								(NS daire{daire<NOM>})
+							)
+						)
+						(CMGB nin{<Num:Sg><Poss:No><Case:Gen>})
+					)
+					(NPS
+						(NP
+							(NS ara{ara<NOM><Num:Sg><Poss:No><Case:Nom>})
+						)
+						(NS duvar{duvar<NOM>})
+					)
+				)
+				(ACCM ı{<Num:Sg><Poss:No><Case:Acc>})
+			)
+			(VPS
+				(VS kaldır{kaldır<VS>})
+				(VMG ıl{<Pasv><VS>})
+			)
+		)
+		(TPMG dı{<Pol:Pos><Tns:Past><Prsn:3s>})
+	)
+)
+
+karşılıklı	karşılıklı<NOM><Num:Sg><Poss:No><Case:Nom>	0
+iki	iki<NOM><Num:Sg><Poss:No><Case:Nom>	0
+dairenin	daire<NOM>-<Num:Sg><Poss:No><Case:Gen>	0,1
+ara	ara<NOM><Num:Sg><Poss:No><Case:Nom>	0
+duvarı	duvar<NOM>-<Num:Sg><Poss:No><Case:Acc>	0,1
+kaldırıldı	kaldır<VS>-<Pasv><VS>-<Pol:Pos><Tns:Past><Prsn:3s>	0,1,2

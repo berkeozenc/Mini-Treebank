@@ -1,0 +1,35 @@
+(S
+	(VP
+		(VPSSUB
+			(CONJ ancak{ancak<CONJ>})
+			(NPSUB
+				(NS o{o<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(ADVP
+				(NPC
+					(NPS
+						(NPS
+							(NP
+								(NS bu{bu<NOM><Num:Sg><Poss:No><Case:Nom>})
+							)
+							(NS fikr{fik{synİn}r<NOM>})
+						)
+						(PLPMG im{<Num:Sg><Poss:1s>})
+					)
+					(CMGB e{<Case:Dat>})
+				)
+			)
+			(VPS
+				(VS katıl{katıl<VS><Actv><VS>})
+				(VMG m{<Pol:Neg>})
+			)
+		)
+		(TPMG ıyor{<Tns:Pres><Prsn:3s>})
+	)
+)
+
+ancak	ancak<CONJ>	0
+o	o<NOM><Num:Sg><Poss:No><Case:Nom>	0
+bu	bu<NOM><Num:Sg><Poss:No><Case:Nom>	0
+fikrime	fik{synİn}r<NOM>-<Num:Sg><Poss:1s>-<Case:Dat>	0,1,2
+katılmıyor	katıl<VS><Actv><VS>-<Pol:Neg>-<Tns:Pres><Prsn:3s>	0,1,2

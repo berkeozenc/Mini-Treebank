@@ -1,0 +1,17 @@
+(S
+	(VP
+		(VPSSUB
+			(NPSUB
+				(NS fabrika{fabrika<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(VPS
+				(VS kapa{kapa<VS>})
+				(VMG n{<Pasv><VS>} ma{<Pol:Neg>})
+			)
+		)
+		(TPMG malı{<Tns:Necc><Prsn:3s>})
+	)
+)
+
+fabrika	fabrika<NOM><Num:Sg><Poss:No><Case:Nom>	0
+kapanmamalı	kapa<VS>-<Pasv><VS>-<Pol:Neg>-<Tns:Necc><Prsn:3s>	0,2,3

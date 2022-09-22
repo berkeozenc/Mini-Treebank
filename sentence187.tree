@@ -1,0 +1,35 @@
+(S
+	(VP
+		(VPS
+			(NPSUB
+				(NPS
+					(NP
+						(NS her{her<NOM><Num:Sg><Poss:No><Case:Nom>})
+					)
+					(NS biri{biri<NOM>})
+				)
+				(PLPMGB miz{<Num:Sg><Poss:1p><Case:Nom>})
+			)
+			(ADVP
+				(NPC
+					(NPS
+						(NS acı{acı<NOM>})
+						(PLPMG lar{<Num:Pl>} ımız{<Poss:1p>})
+					)
+					(CMGB la{<Case:Ins>})
+				)
+			)
+			(ADVP
+				(ADV beraber{beraber<ADV>})
+			)
+			(VS yürü{yürü<VS><Actv><VS>})
+		)
+		(TPMG yeceğ{<Pol:Pos><Tns:Fut>} iz{<Prsn:1p>})
+	)
+)
+
+her	her<NOM><Num:Sg><Poss:No><Case:Nom>	0
+birimiz	biri<NOM>-<Num:Sg><Poss:1p><Case:Nom>	0,1
+acılarımızla	acı<NOM>-<Num:Pl>-<Poss:1p>-<Case:Ins>	0,2,3
+beraber	beraber<ADV>	0
+yürüyeceğiz	yürü<VS><Actv><VS>-<Pol:Pos><Tns:Fut>-<Prsn:1p>	0,2

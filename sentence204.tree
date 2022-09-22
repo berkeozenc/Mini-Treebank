@@ -1,0 +1,34 @@
+(S
+	(VP
+		(VPS
+			(ADVP
+				(NPC
+					(NPS
+						(NPS
+							(NP
+								(NS yatak{yatak<NOM><Num:Sg><Poss:No><Case:Nom>})
+							)
+							(NS oda{oda<NOM>})
+						)
+						(NCM sın{<Num:Sg><NC>})
+					)
+					(CMGB da{<Case:Loc>})
+				)
+			)
+			(NPACC
+				(NPS
+					(NS ölü{ölü<NOM>})
+					(PLPMG sün{<Num:Sg><Poss:3s>})
+				)
+				(ACCM ü{<Case:Acc>})
+			)
+			(VS bul{bul<VS><Actv><VS>})
+		)
+		(TPMG uyor{<Pol:Pos><Tns:Pres>} lar{<Prsn:3p>})
+	)
+)
+
+yatak	yatak<NOM><Num:Sg><Poss:No><Case:Nom>	0
+odasında	oda<NOM>-<Num:Sg><NC>-<Case:Loc>	0,1,2
+ölüsünü	ölü<NOM>-<Num:Sg><Poss:3s>-<Case:Acc>	0,1,2
+buluyorlar	bul<VS><Actv><VS>-<Pol:Pos><Tns:Pres>-<Prsn:3p>	0,2

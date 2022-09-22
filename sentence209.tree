@@ -1,0 +1,41 @@
+(S
+	(VP
+		(VPSSUB
+			(NPSUB
+				(NPS
+					(NP
+						(NPS
+							(NS seç{seç<VS><Actv><VS>})
+							(DNG tiğ{<Pol:Pos><InfA><NOM>})
+						)
+						(PLPMGB iniz{<Num:Sg><Poss:2p><Case:Nom>})
+					)
+					(NS biçim{biçim<NOM>})
+				)
+				(PLPMGB ler{<Num:Pl><Poss:No><Case:Nom>})
+			)
+			(ADVP
+				(ADV yalnızca{yalnızca<ADV>})
+			)
+			(NPACC
+				(NPS
+					(NP
+						(NS seçi{seçi<NOM>})
+						(DNGB li{<With><NOM><Num:Sg><Poss:No><Case:Nom>})
+					)
+					(NS özelliğ{özelli{rK}<NOM>})
+				)
+				(ACCM i{<Num:Sg><Poss:No><Case:Acc>})
+			)
+			(VS etkile{etkile<VS><Actv><VS>})
+		)
+		(TPMG r{<Pol:Pos><Tns:Aor><Prsn:3s>})
+	)
+)
+
+seçtiğiniz	seç<VS><Actv><VS>-<Pol:Pos><InfA><NOM>-<Num:Sg><Poss:2p><Case:Nom>	0,1,2
+biçimler	biçim<NOM>-<Num:Pl><Poss:No><Case:Nom>	0,1
+yalnızca	yalnızca<ADV>	0
+seçili	seçi<NOM>-<With><NOM><Num:Sg><Poss:No><Case:Nom>	0,1
+özelliği	özelli{rK}<NOM>-<Num:Sg><Poss:No><Case:Acc>	0,1
+etkiler	etkile<VS><Actv><VS>-<Pol:Pos><Tns:Aor><Prsn:3s>	0,1

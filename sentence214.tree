@@ -1,0 +1,14 @@
+(S
+	(VP
+		(VPSSUB
+			(NPSUB
+				(NS ışık{ışı{rK}<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(VS yan{yan<VS><Actv><VS>})
+		)
+		(TPMG ıyor{<Pol:Pos><Tns:Pres>} du{<Cpl:Past><Prsn:3s>})
+	)
+)
+
+ışık	ışı{rK}<NOM><Num:Sg><Poss:No><Case:Nom>	0
+yanıyordu	yan<VS><Actv><VS>-<Pol:Pos><Tns:Pres>-<Cpl:Past><Prsn:3s>	0,2

@@ -1,0 +1,40 @@
+(S
+	(VP
+		(VPS
+			(ADVP
+				(VPS
+					(NPACC
+						(NS tuz{tuz<NOM>})
+						(ACCM u{<Num:Sg><Poss:No><Case:Acc>})
+					)
+					(VS ekle{ekle<VS><Actv><VS>})
+				)
+				(DAGB yip{<Pol:Pos><After2><ADV>})
+			)
+			(ADVP
+				(NPC
+					(NPS
+						(NS el{el<NOM>})
+						(PLPMG iniz{<Num:Sg><Poss:2p>})
+					)
+					(CMGB le{<Case:Ins>})
+				)
+			)
+			(ADVP
+				(NS iyi{iyi<NOM>})
+				(DAGB ce{<Num:Sg><Poss:No><Equ><ADV>})
+			)
+			(VPS
+				(VS karış{karış<VS>})
+				(VMG tır{<Caus><VS>})
+			)
+		)
+		(TPMG ın{<Pol:Pos><Tns:Imp><Prsn:2p>})
+	)
+)
+
+tuzu	tuz<NOM>-<Num:Sg><Poss:No><Case:Acc>	0,1
+ekleyip	ekle<VS><Actv><VS>-<Pol:Pos><After2><ADV>	0,1
+elinizle	el<NOM>-<Num:Sg><Poss:2p>-<Case:Ins>	0,1,2
+iyice	iyi<NOM>-<Num:Sg><Poss:No><Equ><ADV>	0,1
+karıştırın	karış<VS>-<Caus><VS>-<Pol:Pos><Tns:Imp><Prsn:2p>	0,1,2

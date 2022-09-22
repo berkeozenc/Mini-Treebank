@@ -1,0 +1,27 @@
+(S
+	(VP
+		(VPS
+			(ADVP
+				(ADV daha{daha<ADV>})
+				(ADVP
+					(NPC
+						(NPS
+							(NP
+								(NS büyük{büyük<NOM><Num:Sg><Poss:No><Case:Nom>})
+							)
+							(NS istek{iste{rK}<NOM>})
+						)
+						(CMGB le{<Num:Sg><Poss:No><Case:Ins>})
+					)
+				)
+			)
+			(VS çalış{çalış<VS><Actv><VS>})
+		)
+		(TPMG tı{<Pol:Pos><Tns:Past>} m{<Prsn:1s>})
+	)
+)
+
+daha	daha<ADV>	0
+büyük	büyük<NOM><Num:Sg><Poss:No><Case:Nom>	0
+istekle	iste{rK}<NOM>-<Num:Sg><Poss:No><Case:Ins>	0,1
+çalıştım	çalış<VS><Actv><VS>-<Pol:Pos><Tns:Past>-<Prsn:1s>	0,2

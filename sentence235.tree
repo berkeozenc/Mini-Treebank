@@ -1,0 +1,49 @@
+(S
+	(NPC
+		(NS herkes{herkes<NOM>})
+		(CMGB in{<Num:Sg><Poss:No><Case:Gen>})
+	)
+	(NPACC
+		(NPS
+			(NPS
+				(NPACC
+					(NPS
+						(VPS
+							(ADVP
+								(NPC
+									(NPS
+										(NPS
+											(NP
+												(NS gizli{gizli<NOM><Num:Sg><Poss:No><Case:Nom>})
+											)
+											(NS oda{oda<NOM>})
+										)
+										(PLPMG sın{<Num:Sg><Poss:3s>})
+									)
+									(CMGB da{<Case:Loc>})
+								)
+							)
+							(VS sakla{sakla<VS><Actv><VS>})
+						)
+						(DNGB dığ{<Pol:Pos><InfA><NOM>})
+					)
+					(ACCM ı{<Num:Sg><Poss:No><Case:Acc>})
+				)
+				(NS gerçek{gerçe{rK}<NOM>})
+			)
+			(PLPMG ler{<Num:Pl>})
+		)
+		(ACCM i{<Poss:No><Case:Acc>})
+	)
+	(NPRED
+		(NS var{var<NOM>})
+		(TPMG dır{<Num:Sg><Poss:No><Case:Nom><NPRED><Prsn:3s>})
+	)
+)
+
+herkesin	herkes<NOM>-<Num:Sg><Poss:No><Case:Gen>	0,1
+gizli	gizli<NOM><Num:Sg><Poss:No><Case:Nom>	0
+odasında	oda<NOM>-<Num:Sg><Poss:3s>-<Case:Loc>	0,1,2
+sakladığı	sakla<VS><Actv><VS>-<Pol:Pos><InfA><NOM>-<Num:Sg><Poss:No><Case:Acc>	0,1,2
+gerçekleri	gerçe{rK}<NOM>-<Num:Pl>-<Poss:No><Case:Acc>	0,1,2
+vardır	var<NOM>-<Num:Sg><Poss:No><Case:Nom><NPRED><Prsn:3s>	0,1

@@ -1,0 +1,34 @@
+(S
+	(VP
+		(VPS
+			(NPACC
+				(NPS
+					(NPS
+						(NP
+							(NS birebir{birebir<NOM><Num:Sg><Poss:No><Case:Nom>})
+						)
+						(NS resim{resim<NOM>})
+					)
+					(PLPMG ler{<Num:Pl>})
+				)
+				(ACCM i{<Poss:No><Case:Acc>})
+			)
+			(ADVP
+				(NPC
+					(NS duvar{duvar<NOM>})
+					(CMGB a{<Num:Sg><Poss:No><Case:Dat>})
+				)
+			)
+			(VPS
+				(VS geçir{geçir<VS><Actv><VS>})
+				(VMG m{<Pol:Neg>})
+			)
+		)
+		(TPMG iyor{<Tns:Pres>} uz{<Prsn:1p>})
+	)
+)
+
+birebir	birebir<NOM><Num:Sg><Poss:No><Case:Nom>	0
+resimleri	resim<NOM>-<Num:Pl>-<Poss:No><Case:Acc>	0,1,2
+duvara	duvar<NOM>-<Num:Sg><Poss:No><Case:Dat>	0,1
+geçirmiyoruz	geçir<VS><Actv><VS>-<Pol:Neg>-<Tns:Pres>-<Prsn:1p>	0,1,3

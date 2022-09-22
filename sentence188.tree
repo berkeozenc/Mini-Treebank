@@ -1,0 +1,35 @@
+(S
+	(VP
+		(VPS
+			(NP
+				(VPS
+					(ADVP
+						(VPS
+							(NP
+								(NPS
+									(NP
+										(NS halk{halk<NOM><Num:Sg><Poss:No><Case:Nom>})
+									)
+									(NS çocuğ{çocu{rK}<NOM>})
+								)
+								(NCMB u{<Num:Sg><NC><Case:Nom>})
+							)
+							(VS ol{ol<VS><Actv><VS>})
+						)
+						(DAGB arak{<Pol:Pos><While><ADV>})
+					)
+					(VS kal{kal<VS><Actv><VS>})
+				)
+				(DNGB mak{<Pol:Pos><Inf2><NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(VS ist{iste<VS><Actv><VS>})
+		)
+		(TPMG iyor{<Pol:Pos><Tns:Pres>} um{<Prsn:1s>})
+	)
+)
+
+halk	halk<NOM><Num:Sg><Poss:No><Case:Nom>	0
+çocuğu	çocu{rK}<NOM>-<Num:Sg><NC><Case:Nom>	0,1
+olarak	ol<VS><Actv><VS>-<Pol:Pos><While><ADV>	0,1
+kalmak	kal<VS><Actv><VS>-<Pol:Pos><Inf2><NOM><Num:Sg><Poss:No><Case:Nom>	0,1
+istiyorum	iste<VS><Actv><VS>-<Pol:Pos><Tns:Pres>-<Prsn:1s>	0,2

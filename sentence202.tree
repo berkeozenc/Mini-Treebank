@@ -1,0 +1,39 @@
+(S
+	(NPSUB
+		(VPS
+			(ADVP
+				(ADV sadece{sadece<ADV>})
+			)
+			(ADVP
+				(NPC
+					(NPS
+						(NPS
+							(NP
+								(NS dış{dış<NOM>})
+								(DNGB sal{<Rltd><NOM><Num:Sg><Poss:No><Case:Nom>})
+							)
+							(NS faktör{faktör<NOM>})
+						)
+						(PLPMG ler{<Num:Pl>})
+					)
+					(CMGB le{<Poss:No><Case:Ins>})
+				)
+			)
+			(VS açıkla{açıkla<VS><Actv><VS>})
+		)
+		(DVGB mak{<Pol:Pos><Inf2><NOM><Num:Sg><Poss:No><Case:Nom>})
+	)
+	(NPRED
+		(NP
+			(NS mümkün{mümkün<NOM><Num:Sg><Poss:No><Case:Nom>})
+		)
+		(NS değil{değil<NOM><Num:Sg><Poss:No><Case:Nom>})
+	)
+)
+
+sadece	sadece<ADV>	0
+dışsal	dış<NOM>-<Rltd><NOM><Num:Sg><Poss:No><Case:Nom>	0,1
+faktörlerle	faktör<NOM>-<Num:Pl>-<Poss:No><Case:Ins>	0,1,2
+açıklamak	açıkla<VS><Actv><VS>-<Pol:Pos><Inf2><NOM><Num:Sg><Poss:No><Case:Nom>	0,1
+mümkün	mümkün<NOM><Num:Sg><Poss:No><Case:Nom>	0
+değil	değil<NOM><Num:Sg><Poss:No><Case:Nom>	0

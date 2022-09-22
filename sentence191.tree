@@ -1,0 +1,49 @@
+(S
+	(VP
+		(VPS
+			(ADVP
+				(ADVP
+					(NPC
+						(NPS
+							(VPS
+								(ADVP
+									(NPC
+										(NPS
+											(NP
+												(NS dört{dör{rT}<NOM><Num:Sg><Poss:No><Case:Nom>})
+											)
+											(NP
+												(NS derece{derece<NOM><Num:Sg><Poss:No><Case:Nom>})
+											)
+											(NS ısı{ısı<NOM>})
+										)
+										(CMGB ya{<Num:Sg><Poss:No><Case:Dat>})
+									)
+								)
+								(VPS
+									(VS düşür{düşür<VS>})
+									(VMG ül{<Pasv><VS>})
+								)
+							)
+							(DNG dük{<Pol:Pos><InfA><NOM>})
+						)
+						(CMGB ten{<Num:Sg><Poss:No><Case:Abl>})
+					)
+				)
+				(ADV sonra{sonra<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(VPS
+				(VS sat{sat<VS>})
+				(VMG ıl{<Pasv><VS>})
+			)
+		)
+		(TPMG ıyor{<Pol:Pos><Tns:Pres><Prsn:3s>})
+	)
+)
+
+dört	dör{rT}<NOM><Num:Sg><Poss:No><Case:Nom>	0
+derece	derece<NOM><Num:Sg><Poss:No><Case:Nom>	0
+ısıya	ısı<NOM>-<Num:Sg><Poss:No><Case:Dat>	0,1
+düşürüldükten	düşür<VS>-<Pasv><VS>-<Pol:Pos><InfA><NOM>-<Num:Sg><Poss:No><Case:Abl>	0,1,2,3
+sonra	sonra<NOM><Num:Sg><Poss:No><Case:Nom>	0
+satılıyor	sat<VS>-<Pasv><VS>-<Pol:Pos><Tns:Pres><Prsn:3s>	0,1,2

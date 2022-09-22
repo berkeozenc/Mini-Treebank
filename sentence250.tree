@@ -1,0 +1,26 @@
+(S
+	(VP
+		(VPS
+			(NPACC
+				(NPS
+					(NS kendi{kendi<NOM>})
+					(PLPMG m{<Num:Sg><Poss:1s>})
+				)
+				(ACCM i{<Case:Acc>})
+			)
+			(NP
+				(NP
+					(NS iyi{iyi<NOM><Num:Sg><Poss:No><Case:Nom>})
+				)
+				(NS siyasetçi{siyasetçi<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(VS bul{bul<VS><Actv><VS>})
+		)
+		(TPMG uyor{<Pol:Pos><Tns:Pres>} um{<Prsn:1s>})
+	)
+)
+
+kendimi	kendi<NOM>-<Num:Sg><Poss:1s>-<Case:Acc>	0,1,2
+iyi	iyi<NOM><Num:Sg><Poss:No><Case:Nom>	0
+siyasetçi	siyasetçi<NOM><Num:Sg><Poss:No><Case:Nom>	0
+buluyorum	bul<VS><Actv><VS>-<Pol:Pos><Tns:Pres>-<Prsn:1s>	0,2

@@ -1,0 +1,33 @@
+(S
+	(VP
+		(VPS
+			(ADVP
+				(NPC
+					(NPS
+						(NS anne{anne<NOM>})
+						(PLPMG m{<Num:Sg><Poss:1s>})
+					)
+					(CMGB in{<Case:Gen>})
+				)
+				(ADV sayesinde{sayesinde<ADV>})
+			)
+			(NP
+				(NPS
+					(NP
+						(NS müzik{müzi{rK}<NOM><Num:Sg><Poss:No><Case:Nom>})
+					)
+					(NS eğitim{eğitim<NOM>})
+				)
+				(NCMB i{<Num:Sg><NC><Case:Nom>})
+			)
+			(VS al{al<VS><Actv><VS>})
+		)
+		(TPMG dı{<Pol:Pos><Tns:Past>} m{<Prsn:1s>})
+	)
+)
+
+annemin	anne<NOM>-<Num:Sg><Poss:1s>-<Case:Gen>	0,1,2
+sayesinde	sayesinde<ADV>	0
+müzik	müzi{rK}<NOM><Num:Sg><Poss:No><Case:Nom>	0
+eğitimi	eğitim<NOM>-<Num:Sg><NC><Case:Nom>	0,1
+aldım	al<VS><Actv><VS>-<Pol:Pos><Tns:Past>-<Prsn:1s>	0,2

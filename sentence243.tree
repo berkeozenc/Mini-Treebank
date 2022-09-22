@@ -1,0 +1,36 @@
+(S
+	(VP
+		(VPSSUB
+			(NPSUB
+				(NPS
+					(NP
+						(NS logo{logo<NOM><Num:Sg><Poss:No><Case:Nom>})
+					)
+					(NS tuş{tuş<NOM>})
+				)
+				(NCMB u{<Num:Sg><NC><Case:Nom>})
+			)
+			(POSTPP
+				(NPACC
+					(NPS
+						(VS gerek{gerek<VS><Actv><VS>})
+						(DNG tiğ{<Pol:Pos><InfA><NOM>})
+					)
+					(ACCM i{<Num:Sg><Poss:No><Case:Acc>})
+				)
+				(POSTP gibi{gibi<POSTP>})
+			)
+			(VPS
+				(VS çalış{çalış<VS><Actv><VS>})
+				(VMG m{<Pol:Neg>})
+			)
+		)
+		(TPMG ıyor{<Tns:Pres><Prsn:3s>})
+	)
+)
+
+logo	logo<NOM><Num:Sg><Poss:No><Case:Nom>	0
+tuşu	tuş<NOM>-<Num:Sg><NC><Case:Nom>	0,1
+gerektiği	gerek<VS><Actv><VS>-<Pol:Pos><InfA><NOM>-<Num:Sg><Poss:No><Case:Acc>	0,1,2
+gibi	gibi<POSTP>	0
+çalışmıyor	çalış<VS><Actv><VS>-<Pol:Neg>-<Tns:Pres><Prsn:3s>	0,1,2

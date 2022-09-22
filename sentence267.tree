@@ -1,0 +1,51 @@
+(S
+	(S
+		(VP
+			(VPS
+				(S
+					(VP
+						(VPS
+							(NP
+								(NS pas{pas<NOM><Num:Sg><Poss:No><Case:Nom>})
+							)
+							(VPS
+								(VS al{al<VS><Actv><VS>})
+								(VMG a{<Abil>} m{<Pol:Neg>})
+							)
+						)
+						(TPMG ıyor{<Tns:Pres>} um{<Prsn:1s>})
+					)
+				)
+				(Select de{d{E}<VS><Actv><VS>})
+			)
+			(TPMG di{<Pol:Pos><Tns:Past><Prsn:3s>})
+		)
+	)
+	(S
+		(VP
+			(VPS
+				(NP
+					(VPS
+						(ADVP
+							(NPC
+								(NS maç{maç<NOM>})
+								(CMGB tan{<Num:Sg><Poss:No><Case:Abl>})
+							)
+						)
+						(VS çık{çık<VS><Actv><VS>})
+					)
+					(DNGB mak{<Pol:Pos><Inf2><NOM><Num:Sg><Poss:No><Case:Nom>})
+				)
+				(VS iste{iste<VS><Actv><VS>})
+			)
+			(TPMG di{<Pol:Pos><Tns:Past><Prsn:3s>})
+		)
+	)
+)
+
+pas	pas<NOM><Num:Sg><Poss:No><Case:Nom>	0
+alamıyorum	al<VS><Actv><VS>-<Abil>-<Pol:Neg>-<Tns:Pres>-<Prsn:1s>	0,2,4
+dedi	d{E}<VS><Actv><VS>-<Pol:Pos><Tns:Past><Prsn:3s>	0,1
+maçtan	maç<NOM>-<Num:Sg><Poss:No><Case:Abl>	0,1
+çıkmak	çık<VS><Actv><VS>-<Pol:Pos><Inf2><NOM><Num:Sg><Poss:No><Case:Nom>	0,1
+istedi	iste<VS><Actv><VS>-<Pol:Pos><Tns:Past><Prsn:3s>	0,1

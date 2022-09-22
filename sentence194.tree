@@ -1,0 +1,34 @@
+(S
+	(VP
+		(VPSSUB
+			(ADVP
+				(NPC
+					(NPS
+						(NP
+							(NS bu{bu<NOM><Num:Sg><Poss:No><Case:Nom>})
+						)
+						(NS sıra{sıra<NOM>})
+					)
+					(CMGB da{<Num:Sg><Poss:No><Case:Loc>})
+				)
+			)
+			(NPSUB
+				(NP
+					(NS üç{üç})
+					(DNGB üncü{<Ord><NOM><Num:Sg><Poss:No><Case:Nom>})
+				)
+				(NS mektup{mektu{rP}<NOM><Num:Sg><Poss:No><Case:Nom>})
+				(CONJ da{da<CONJ>})
+			)
+			(VS çıkagel{çıkagel<VS><Actv><VS>})
+		)
+		(TPMG di{<Pol:Pos><Tns:Past><Prsn:3s>})
+	)
+)
+
+bu	bu<NOM><Num:Sg><Poss:No><Case:Nom>	0
+sırada	sıra<NOM>-<Num:Sg><Poss:No><Case:Loc>	0,1
+üçüncü	üç-<Ord><NOM><Num:Sg><Poss:No><Case:Nom>	0,1
+mektup	mektu{rP}<NOM><Num:Sg><Poss:No><Case:Nom>	0
+da	da<CONJ>	0
+çıkageldi	çıkagel<VS><Actv><VS>-<Pol:Pos><Tns:Past><Prsn:3s>	0,1

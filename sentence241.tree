@@ -1,0 +1,32 @@
+(S
+	(NPSUB
+		(DAGB
+			(NP
+				(NS bu{bu<NOM><Num:Sg><Poss:No><Case:Nom>})
+			)
+			(NS tutanak{tutanak<NOM>})
+		)
+		(PLPMGB lar{<Num:Pl><Poss:No><Case:Nom>})
+	)
+	(NPRED
+		(NPS
+			(NPS
+				(NP
+					(NS bir{bir<NOM><Num:Sg><Poss:No><Case:Nom>})
+				)
+				(NP
+					(NS ibret{ibret<NOM><Num:Sg><Poss:No><Case:Nom>})
+				)
+				(NS belge{belge<NOM>})
+			)
+			(NCM si{<Num:Sg><NC>})
+		)
+		(TPMG dir{<Case:Nom><NPRED><Prsn:3s>})
+	)
+)
+
+bu	bu<NOM><Num:Sg><Poss:No><Case:Nom>	0
+tutanaklar	tutanak<NOM>-<Num:Pl><Poss:No><Case:Nom>	0,1
+bir	bir<NOM><Num:Sg><Poss:No><Case:Nom>	0
+ibret	ibret<NOM><Num:Sg><Poss:No><Case:Nom>	0
+belgesidir	belge<NOM>-<Num:Sg><NC>-<Case:Nom><NPRED><Prsn:3s>	0,1,2

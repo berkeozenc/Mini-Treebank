@@ -1,0 +1,23 @@
+(S
+	(VP
+		(VPS
+			(ADVP
+				(NPC
+					(NPS
+						(NP
+							(NS aynı{aynı<NOM><Num:Sg><Poss:No><Case:Nom>})
+						)
+						(NS semt{semt<NOM>})
+					)
+					(CMGB te{<Num:Sg><Poss:No><Case:Loc>})
+				)
+			)
+			(VS otur{otur<VS><Actv><VS>})
+		)
+		(TPMG uyor{<Pol:Pos><Tns:Pres>} uz{<Prsn:1p>})
+	)
+)
+
+aynı	aynı<NOM><Num:Sg><Poss:No><Case:Nom>	0
+semtte	semt<NOM>-<Num:Sg><Poss:No><Case:Loc>	0,1
+oturuyoruz	otur<VS><Actv><VS>-<Pol:Pos><Tns:Pres>-<Prsn:1p>	0,2

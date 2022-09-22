@@ -1,0 +1,16 @@
+(S
+	(VP
+		(VPS
+			(ADVP
+				(ADV hala{hala<ADV>})
+			)
+			(CONJ da{da<CONJ>})
+			(VS öner{öner<VS><Actv><VS>})
+		)
+		(TPMG iyor{<Pol:Pos><Tns:Pres>} um{<Prsn:1s>})
+	)
+)
+
+hala	hala<ADV>	0
+da	da<CONJ>	0
+öneriyorum	öner<VS><Actv><VS>-<Pol:Pos><Tns:Pres>-<Prsn:1s>	0,2
